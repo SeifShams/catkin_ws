@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/tug_neo_locate_station/share/gennodejs/ros/tug_neo_locate_station/srv/LocateStation.js

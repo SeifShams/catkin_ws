@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_perception_mocks/lib/pkgconfig/spencer_perception_mocks.pc

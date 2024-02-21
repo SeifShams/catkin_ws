@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_tracking_rviz_plugin/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig-version.cmake

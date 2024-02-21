@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_tracking_utils/lib/pkgconfig/spencer_tracking_utils.pc

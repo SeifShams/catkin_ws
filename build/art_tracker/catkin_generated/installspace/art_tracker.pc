@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/install
+
+Name: art_tracker
+Description: Description of art_tracker
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lart_tracker
+Requires: roscpp std_msgs tf2_ros tf2_geometry_msgs geometry_msgs

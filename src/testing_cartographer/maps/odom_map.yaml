@@ -1,0 +1,7 @@
+image: odom_map.pgm
+resolution: 0.050000
+origin: [-18.305824, -19.110658, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

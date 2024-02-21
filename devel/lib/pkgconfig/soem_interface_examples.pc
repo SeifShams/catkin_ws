@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/soem_interface_examples/lib/pkgconfig/soem_interface_examples.pc

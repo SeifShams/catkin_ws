@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/sbpl_recovery/lib/pkgconfig/sbpl_recovery.pc

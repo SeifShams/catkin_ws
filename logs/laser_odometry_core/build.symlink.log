@@ -1,0 +1,4 @@
+Symlinking /home/seif/catkin_ws/devel/lib/liblaser_odometry_core.so
+Symlinking /home/seif/catkin_ws/devel/lib/pkgconfig/laser_odometry_core.pc
+Symlinking /home/seif/catkin_ws/devel/share/laser_odometry_core/cmake/laser_odometry_coreConfig.cmake
+Symlinking /home/seif/catkin_ws/devel/share/laser_odometry_core/cmake/laser_odometry_coreConfig-version.cmake

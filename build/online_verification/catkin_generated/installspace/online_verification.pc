@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/install
+
+Name: online_verification
+Description: Description of online_verification
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

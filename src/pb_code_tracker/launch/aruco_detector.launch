@@ -1,0 +1,6 @@
+<launch>
+  <arg name="input_topic" default="/rgb/image_raw" />
+  <node name="aruco_detector" pkg="pb_code_tracker" type="aruco_code_tracker.py" output="screen">
+    <param name="input_topic" value="$(arg input_topic)"/>
+  </node>
+</launch>

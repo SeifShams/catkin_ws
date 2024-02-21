@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/ogm2pgbm/share/ogm2pgbm/cmake/ogm2pgbmConfig.cmake

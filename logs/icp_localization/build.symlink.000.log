@@ -1,0 +1,5 @@
+Symlinking /home/seif/catkin_ws/devel/lib/libicp_localization.so
+Symlinking /home/seif/catkin_ws/devel/lib/icp_localization/localizer_node
+Symlinking /home/seif/catkin_ws/devel/lib/pkgconfig/icp_localization.pc
+Symlinking /home/seif/catkin_ws/devel/share/icp_localization/cmake/icp_localizationConfig-version.cmake
+Symlinking /home/seif/catkin_ws/devel/share/icp_localization/cmake/icp_localizationConfig.cmake

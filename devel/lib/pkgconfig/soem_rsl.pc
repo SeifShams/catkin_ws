@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/soem_rsl/lib/pkgconfig/soem_rsl.pc

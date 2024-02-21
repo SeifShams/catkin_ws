@@ -1,0 +1,8 @@
+drive_mode_switch
+/home/seif/catkin_ws/devel/.private/drive_mode_switch/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/drive_mode_switch/lib/drive_mode_switch/cmake.lock /home/seif/catkin_ws/devel/lib/drive_mode_switch/cmake.lock
+/home/seif/catkin_ws/devel/.private/drive_mode_switch/lib/drive_mode_switch/keyboard_switch /home/seif/catkin_ws/devel/lib/drive_mode_switch/keyboard_switch
+/home/seif/catkin_ws/devel/.private/drive_mode_switch/lib/drive_mode_switch/mode_switch.py /home/seif/catkin_ws/devel/lib/drive_mode_switch/mode_switch.py
+/home/seif/catkin_ws/devel/.private/drive_mode_switch/lib/pkgconfig/drive_mode_switch.pc /home/seif/catkin_ws/devel/lib/pkgconfig/drive_mode_switch.pc
+/home/seif/catkin_ws/devel/.private/drive_mode_switch/share/drive_mode_switch/cmake/drive_mode_switchConfig.cmake /home/seif/catkin_ws/devel/share/drive_mode_switch/cmake/drive_mode_switchConfig.cmake
+/home/seif/catkin_ws/devel/.private/drive_mode_switch/share/drive_mode_switch/cmake/drive_mode_switchConfig-version.cmake /home/seif/catkin_ws/devel/share/drive_mode_switch/cmake/drive_mode_switchConfig-version.cmake

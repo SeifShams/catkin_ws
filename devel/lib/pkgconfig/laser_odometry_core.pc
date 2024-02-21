@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/laser_odometry_core/lib/pkgconfig/laser_odometry_core.pc

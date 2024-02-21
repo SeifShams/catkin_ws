@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/twist_recovery/share/twist_recovery/cmake/twist_recoveryConfig-version.cmake

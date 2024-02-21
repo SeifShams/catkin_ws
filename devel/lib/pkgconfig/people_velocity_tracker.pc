@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/people_velocity_tracker/lib/pkgconfig/people_velocity_tracker.pc

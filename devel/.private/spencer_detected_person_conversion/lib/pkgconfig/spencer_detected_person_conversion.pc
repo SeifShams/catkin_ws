@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/spencer_detected_person_conversion
+
+Name: spencer_detected_person_conversion
+Description: Description of spencer_detected_person_conversion
+Version: 1.3.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy spencer_tracking_msgs

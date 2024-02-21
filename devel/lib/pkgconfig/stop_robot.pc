@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/stop_robot/lib/pkgconfig/stop_robot.pc

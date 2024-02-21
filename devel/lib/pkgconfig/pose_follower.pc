@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/pose_follower/lib/pkgconfig/pose_follower.pc

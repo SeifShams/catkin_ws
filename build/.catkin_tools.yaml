@@ -1,0 +1,6 @@
+devel_space: /home/seif/catkin_ws/devel
+install: false
+install_space: /home/seif/catkin_ws/install
+profile: default
+source_space: /home/seif/catkin_ws/src
+workspace: /home/seif/catkin_ws

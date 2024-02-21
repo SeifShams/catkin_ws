@@ -1,0 +1,7 @@
+set(tug_navigation_tools_SETUP_PY_SETUP_MODULE "distutils.core")
+set(tug_navigation_tools_SETUP_PY_VERSION "0.0.0")
+set(tug_navigation_tools_SETUP_PY_SCRIPTS "")
+set(tug_navigation_tools_SETUP_PY_PACKAGES "project_name")
+set(tug_navigation_tools_SETUP_PY_PACKAGE_DIRS "src/project_name")
+set(tug_navigation_tools_SETUP_PY_MODULES "")
+set(tug_navigation_tools_SETUP_PY_MODULE_DIRS "")

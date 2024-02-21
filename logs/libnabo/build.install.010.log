@@ -1,0 +1,33 @@
+[100%] Built target nabo
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/seif/catkin_ws/devel/_setup_util.py
+-- Up-to-date: /home/seif/catkin_ws/devel/env.sh
+-- Up-to-date: /home/seif/catkin_ws/devel/setup.bash
+-- Up-to-date: /home/seif/catkin_ws/devel/local_setup.bash
+-- Up-to-date: /home/seif/catkin_ws/devel/setup.sh
+-- Up-to-date: /home/seif/catkin_ws/devel/local_setup.sh
+-- Up-to-date: /home/seif/catkin_ws/devel/setup.zsh
+-- Up-to-date: /home/seif/catkin_ws/devel/local_setup.zsh
+-- Up-to-date: /home/seif/catkin_ws/devel/.rosinstall
+-- Up-to-date: /home/seif/catkin_ws/devel/lib/pkgconfig/libnabo.pc
+-- Up-to-date: /home/seif/catkin_ws/devel/share/libnabo/cmake/libnaboConfig.cmake
+-- Up-to-date: /home/seif/catkin_ws/devel/share/libnabo/cmake/libnaboConfig-version.cmake
+-- Up-to-date: /home/seif/catkin_ws/devel/share/libnabo/package.xml
+-- Up-to-date: /home/seif/catkin_ws/devel/lib/libnabo.so
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/opencl
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/opencl/heap.cl
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/opencl/structure.cl
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/opencl/knn_bf.cl
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/opencl/knn_kdtree_pt_in_nodes.cl
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/opencl/knn_kdtree_pt_in_leaves.cl
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/kdtree_opencl.cpp
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/kdtree_cpu.cpp
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/third_party
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/third_party/any.hpp
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/brute_force_cpu.cpp
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/index_heap.h
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/nabo.cpp
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/nabo_private.h
+-- Up-to-date: /home/seif/catkin_ws/devel/include/nabo/nabo.h

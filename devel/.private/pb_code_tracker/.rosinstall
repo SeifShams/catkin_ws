@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/seif/catkin_ws/devel/.private/pb_code_tracker/setup.sh

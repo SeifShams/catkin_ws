@@ -1,0 +1,28 @@
+<package>
+  <name>tugger_train_bringup</name>
+  <version>0.0.1</version>
+
+  <description>bring the routenzug into gazebo with functioning sensors</description>
+  <author email="fuqi.guan@tum.de">Fuqi.Guan</author>
+
+  <maintainer email="fuqi.guan@tum.de">Fuqi.Guan</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>roslaunch</run_depend>
+  <!--run_depend>art_ros_bridge</run_depend-->
+  <run_depend>joint_state_publisher</run_depend>
+  <run_depend>robot_state_publisher</run_depend>
+  <run_depend>rviz</run_depend>
+  <run_depend>navigation</run_depend>
+  <run_depend>ira_laser_tools</run_depend>
+  <run_depend>joy</run_depend>
+  <run_depend>joy_teleop</run_depend>
+  <run_depend>tug-controller-damping</run_depend> 
+  <run_depend>xacro</run_depend>
+  <run_depend>gazebo_ros</run_depend>
+  <run_depend>gazebo_ros_pkgs</run_depend>
+  <run_depend>teb_local_planner</run_depend>
+
+</package>

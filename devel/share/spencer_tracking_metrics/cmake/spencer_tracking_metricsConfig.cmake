@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_tracking_metrics/share/spencer_tracking_metrics/cmake/spencer_tracking_metricsConfig.cmake

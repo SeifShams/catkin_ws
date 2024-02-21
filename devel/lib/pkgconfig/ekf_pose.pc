@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/ekf_pose/lib/pkgconfig/ekf_pose.pc

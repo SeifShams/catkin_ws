@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/testing_cartographer
+
+Name: testing_cartographer
+Description: Description of testing_cartographer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

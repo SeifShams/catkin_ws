@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/tug_neo_locate_station/lib/pkgconfig/tug_neo_locate_station.pc

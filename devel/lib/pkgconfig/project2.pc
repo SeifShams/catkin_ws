@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/project2/lib/pkgconfig/project2.pc

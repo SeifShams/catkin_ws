@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>dunker_ethercat_interface</name>
+  <version>0.0.0</version>
+  <description>A ROS interface for the Dunkermotoren BGE 6060 motor contorllers with ethercat</description>
+
+  <maintainer email="philipp@schmutz.eu">Philipp Schmutz</maintainer>
+
+  <license>TODO</license>
+
+  <author email="philipp@schmutz.eu">Philipp Schmutz</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>message_logger</depend>
+  <depend>soem_rsl</depend>
+  <depend>soem_interface</depend>
+  <depend>roscpp</depend>
+  <depend>rosconsole_bridge</depend>
+  <depend>sensor_msgs</depend>
+  <depend>trajectory_msgs</depend>
+</package>

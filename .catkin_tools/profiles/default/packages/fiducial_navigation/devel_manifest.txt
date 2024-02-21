@@ -1,0 +1,7 @@
+fiducial_navigation
+/home/seif/catkin_ws/devel/.private/fiducial_navigation/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/fiducial_navigation/lib/libfiducial_navigation.so /home/seif/catkin_ws/devel/lib/libfiducial_navigation.so
+/home/seif/catkin_ws/devel/.private/fiducial_navigation/lib/fiducial_navigation/fiducial_navigation_node /home/seif/catkin_ws/devel/lib/fiducial_navigation/fiducial_navigation_node
+/home/seif/catkin_ws/devel/.private/fiducial_navigation/lib/pkgconfig/fiducial_navigation.pc /home/seif/catkin_ws/devel/lib/pkgconfig/fiducial_navigation.pc
+/home/seif/catkin_ws/devel/.private/fiducial_navigation/share/fiducial_navigation/cmake/fiducial_navigationConfig.cmake /home/seif/catkin_ws/devel/share/fiducial_navigation/cmake/fiducial_navigationConfig.cmake
+/home/seif/catkin_ws/devel/.private/fiducial_navigation/share/fiducial_navigation/cmake/fiducial_navigationConfig-version.cmake /home/seif/catkin_ws/devel/share/fiducial_navigation/cmake/fiducial_navigationConfig-version.cmake

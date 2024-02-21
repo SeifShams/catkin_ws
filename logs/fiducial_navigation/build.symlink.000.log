@@ -1,0 +1,5 @@
+Symlinking /home/seif/catkin_ws/devel/lib/libfiducial_navigation.so
+Symlinking /home/seif/catkin_ws/devel/lib/fiducial_navigation/fiducial_navigation_node
+Symlinking /home/seif/catkin_ws/devel/lib/pkgconfig/fiducial_navigation.pc
+Symlinking /home/seif/catkin_ws/devel/share/fiducial_navigation/cmake/fiducial_navigationConfig.cmake
+Symlinking /home/seif/catkin_ws/devel/share/fiducial_navigation/cmake/fiducial_navigationConfig-version.cmake

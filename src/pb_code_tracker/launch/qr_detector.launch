@@ -1,0 +1,5 @@
+<launch>
+  <node name="qr_detector" pkg="pb_code_tracker" type="qr_code_tracker.py">
+    <param name="input_topic" value="/rgb/image_raw"/>
+  </node>
+</launch>

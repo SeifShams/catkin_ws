@@ -1,0 +1,14 @@
+[  0%] Built target _spencer_human_attribute_msgs_generate_messages_check_deps_HumanAttributes
+[  0%] Built target _spencer_human_attribute_msgs_generate_messages_check_deps_ScalarAttribute
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _spencer_human_attribute_msgs_generate_messages_check_deps_CategoricalAttribute
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 17%] Built target spencer_human_attribute_msgs_generate_messages_cpp
+[ 41%] Built target spencer_human_attribute_msgs_generate_messages_py
+[ 58%] Built target spencer_human_attribute_msgs_generate_messages_nodejs
+[ 82%] Built target spencer_human_attribute_msgs_generate_messages_eus
+[100%] Built target spencer_human_attribute_msgs_generate_messages_lisp
+[100%] Built target spencer_human_attribute_msgs_generate_messages

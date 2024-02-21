@@ -1,0 +1,2 @@
+spencer_people_tracking/detection/laser_detectors/spencer_leg_detector_wrapper
+/home/seif/catkin_ws/devel/.private/spencer_leg_detector_wrapper/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock

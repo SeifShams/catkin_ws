@@ -1,0 +1,4 @@
+<launch>
+    <!-- Launch ekf_pose.py -->
+    <node pkg="ekf_pose" type="ekf_pose.py" name="ekf_pose_node" output="screen"/>
+</launch>

@@ -1,0 +1,6 @@
+spencer_people_tracking/detection/rgbd_detectors/rwth_upper_body_detector
+/home/seif/catkin_ws/devel/.private/rwth_upper_body_detector/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/rwth_upper_body_detector/lib/pkgconfig/rwth_upper_body_detector.pc /home/seif/catkin_ws/devel/lib/pkgconfig/rwth_upper_body_detector.pc
+/home/seif/catkin_ws/devel/.private/rwth_upper_body_detector/lib/rwth_upper_body_detector/upper_body_detector /home/seif/catkin_ws/devel/lib/rwth_upper_body_detector/upper_body_detector
+/home/seif/catkin_ws/devel/.private/rwth_upper_body_detector/share/rwth_upper_body_detector/cmake/rwth_upper_body_detectorConfig-version.cmake /home/seif/catkin_ws/devel/share/rwth_upper_body_detector/cmake/rwth_upper_body_detectorConfig-version.cmake
+/home/seif/catkin_ws/devel/.private/rwth_upper_body_detector/share/rwth_upper_body_detector/cmake/rwth_upper_body_detectorConfig.cmake /home/seif/catkin_ws/devel/share/rwth_upper_body_detector/cmake/rwth_upper_body_detectorConfig.cmake

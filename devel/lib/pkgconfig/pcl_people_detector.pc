@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/pcl_people_detector/lib/pkgconfig/pcl_people_detector.pc

@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/imu_filter_madgwick/lib/python3/dist-packages/imu_filter_madgwick/cfg/ImuFilterMadgwickConfig.py

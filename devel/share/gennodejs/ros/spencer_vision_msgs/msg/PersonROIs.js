@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_vision_msgs/share/gennodejs/ros/spencer_vision_msgs/msg/PersonROIs.js

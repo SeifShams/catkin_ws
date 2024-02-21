@@ -1,0 +1,2 @@
+spencer_people_tracking/utils/spencer_people_tracking_full
+/home/seif/catkin_ws/devel/.private/spencer_people_tracking_full/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock

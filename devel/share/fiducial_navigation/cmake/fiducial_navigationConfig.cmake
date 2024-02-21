@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/fiducial_navigation/share/fiducial_navigation/cmake/fiducial_navigationConfig.cmake

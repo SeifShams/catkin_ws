@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/drive_mode_switch
+
+Name: drive_mode_switch
+Description: Description of drive_mode_switch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -ldrive_mode_switch
+Requires: roscpp rospy std_msgs message_runtime

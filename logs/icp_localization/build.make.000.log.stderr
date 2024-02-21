@@ -1,0 +1,67 @@
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/ICPlocalization.cpp:[m[K In member function ‘[01m[Kvoid icp_loco::ICPlocalization::icpWorker()[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/ICPlocalization.cpp:302:16:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KtimeMs[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  302 |   const double [01;35m[KtimeMs[m[K = nUs / 1000.0;
+      |                [01;35m[K^~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp:[m[K In member function ‘[01m[Kbool icp_loco::FrameTracker::isReady() const[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp:42:61:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} and ‘[01m[Kconst int[m[K’ [[01;35m[K-Wsign-compare[m[K]
+   42 |  const bool isOdomBufferReady = [01;35m[KodomToTrackingCamera_.size()>minNumOdomMeasurementsBeforeReady_[m[K || !isUseOdometryForRangeSensorPosePrediction_;
+      |                                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp:[m[K In member function ‘[01m[Kicp_loco::Rigid3d icp_loco::FrameTracker::getTransformOdomSourceToRangeSensor(const Time&) const[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp:59:15:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   59 |   [01;35m[Kconst Time &time[m[K) const {
+      |   [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp:[m[K In member function ‘[01m[Kicp_loco::Rigid3d icp_loco::FrameTracker::getTransformImuToRangeSensor(const Time&) const[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp:63:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   63 | Rigid3d FrameTracker::getTransformImuToRangeSensor([01;35m[Kconst Time &time[m[K) const {
+      |                                                    [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp:[m[K In member function ‘[01m[Kicp_loco::Rigid3d icp_loco::FrameTracker::computeFromImu(const Time&, const Time&) const[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp:151:15:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KkRadToDeg[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  151 |  const double [01;35m[KkRadToDeg[m[K = 180.0 / M_PI;
+      |               [01;35m[K^~~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:8[m[K:
+[01m[K/home/seif/catkin_ws/src/icp_localization/include/icp_localization/transform/ImuTracker.hpp:[m[K In constructor ‘[01m[Kicp_loco::ImuTracker::ImuTracker()[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/include/icp_localization/transform/ImuTracker.hpp:55:22:[m[K [01;35m[Kwarning: [m[K‘[01m[Kicp_loco::ImuTracker::currentOrientation_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+   55 |   Eigen::Quaterniond [01;35m[KcurrentOrientation_[m[K;
+      |                      [01;35m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/include/icp_localization/transform/ImuTracker.hpp:54:10:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kdouble icp_loco::ImuTracker::imuGravityTimeConstant_[m[K’ [[01;35m[K-Wreorder[m[K]
+   54 |   double [01;35m[KimuGravityTimeConstant_[m[K;
+      |          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:19:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   19 | [01;35m[KImuTracker[m[K::ImuTracker() :
+      | [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:8[m[K:
+[01m[K/home/seif/catkin_ws/src/icp_localization/include/icp_localization/transform/ImuTracker.hpp:54:10:[m[K [01;35m[Kwarning: [m[K‘[01m[Kicp_loco::ImuTracker::imuGravityTimeConstant_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+   54 |   double [01;35m[KimuGravityTimeConstant_[m[K;
+      |          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/include/icp_localization/transform/ImuTracker.hpp:53:19:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KEigen::Vector3d icp_loco::ImuTracker::currentGravityVector_[m[K’ [[01;35m[K-Wreorder[m[K]
+   53 |   Eigen::Vector3d [01;35m[KcurrentGravityVector_[m[K;
+      |                   [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:19:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   19 | [01;35m[KImuTracker[m[K::ImuTracker() :
+      | [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:8[m[K:
+[01m[K/home/seif/catkin_ws/src/icp_localization/include/icp_localization/transform/ImuTracker.hpp:58:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Kicp_loco::ImuTracker::integratedPosition_[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+   58 |   Eigen::Vector3d [01;35m[KintegratedPosition_[m[K;
+      |                   [01;35m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/include/icp_localization/transform/ImuTracker.hpp:57:19:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KEigen::Vector3d icp_loco::ImuTracker::integratedLinearVelocity_[m[K’ [[01;35m[K-Wreorder[m[K]
+   57 |   Eigen::Vector3d [01;35m[KintegratedLinearVelocity_[m[K;
+      |                   [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:19:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+   19 | [01;35m[KImuTracker[m[K::ImuTracker() :
+      | [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:[m[K In member function ‘[01m[Kicp_loco::Rigid3d icp_loco::ImuTracker::getLatestOdometry() const[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:109:13:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[KrpyAccelerometer[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  109 |  const auto [01;35m[KrpyAccelerometer[m[K = toRPY(currentOrientation_);
+      |             [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:[m[K In member function ‘[01m[Kvoid icp_loco::ImuTracker::removeGravityAccelerationFromBuffer() const[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:147:20:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<icp_loco::TimestampedImuReading>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  147 |  for (int i = 0; [01;35m[Ki < integrationBuffer_.size()[m[K; ++i) {
+      |                  [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:[m[K In member function ‘[01m[Kvoid icp_loco::ImuTracker::integrateBufferInPlace(icp_loco::ImuTracker::Accessor, const Vector3d&) const[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:168:20:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<icp_loco::TimestampedImuReading>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  168 |  for (int i = 1; [01;35m[Ki < integrationBuffer_.size()[m[K; ++i) {
+      |                  [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:[m[K In member function ‘[01m[Kvoid icp_loco::ImuTracker::printBuffer(icp_loco::ImuTracker::Accessor) const[m[K’:
+[01m[K/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp:180:20:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<icp_loco::TimestampedImuReading>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  180 |  for (int i = 0; [01;35m[Ki < integrationBuffer_.size()[m[K; ++i) {
+      |                  [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K

@@ -1,0 +1,5 @@
+Symlinking /home/seif/catkin_ws/devel/lib/libfiducial_tracker.so
+Symlinking /home/seif/catkin_ws/devel/lib/fiducial_tracker/aruco_tracker_node
+Symlinking /home/seif/catkin_ws/devel/lib/pkgconfig/fiducial_tracker.pc
+Symlinking /home/seif/catkin_ws/devel/share/fiducial_tracker/cmake/fiducial_trackerConfig.cmake
+Symlinking /home/seif/catkin_ws/devel/share/fiducial_tracker/cmake/fiducial_trackerConfig-version.cmake

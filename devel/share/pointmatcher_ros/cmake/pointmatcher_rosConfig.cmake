@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/pointmatcher_ros/share/pointmatcher_ros/cmake/pointmatcher_rosConfig.cmake

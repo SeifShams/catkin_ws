@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/pcl_people_detector/share/pcl_people_detector/cmake/pcl_people_detectorConfig-version.cmake

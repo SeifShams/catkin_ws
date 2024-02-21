@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/seif/catkin_ws/devel/.private/spencer_people_tracking_launch/setup.sh

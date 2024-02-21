@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/seif/catkin_ws/devel/.private/srl_nearest_neighbor_tracker/setup.sh

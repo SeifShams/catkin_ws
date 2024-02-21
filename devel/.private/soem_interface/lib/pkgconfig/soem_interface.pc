@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/soem_interface
+
+Name: soem_interface
+Description: Description of soem_interface
+Version: 0.4.0
+Cflags: -I/home/seif/catkin_ws/src/soem_interface/soem_interface/include
+Libs: -L${prefix}/lib -lsoem_interface
+Requires: message_logger soem_rsl

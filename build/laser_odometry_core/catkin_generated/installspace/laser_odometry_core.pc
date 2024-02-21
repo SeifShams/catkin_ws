@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/install
+
+Name: laser_odometry_core
+Description: Description of laser_odometry_core
+Version: 0.1.0
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -llaser_odometry_core
+Requires: cmake_modules geometry_msgs nav_msgs pluginlib roscpp sensor_msgs tf tf_conversions

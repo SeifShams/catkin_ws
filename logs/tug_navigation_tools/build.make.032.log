@@ -1,0 +1,31 @@
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_EmergencyStop
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_calculate_rotation
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_parking_position
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_trajectory
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_AccelerationStamped
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_rotational_movement
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_rotate_to_angle
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_FinePositioning
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_translational_movement
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _tug_navigation_tools_generate_messages_check_deps_PrenavigationPathplanner
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[ 18%] Built target tug_navigation_tools_generate_messages_nodejs
+[ 37%] Built target tug_navigation_tools_generate_messages_lisp
+[ 62%] Built target tug_navigation_tools_generate_messages_cpp
+[ 79%] Built target tug_navigation_tools_generate_messages_py
+[100%] Built target tug_navigation_tools_generate_messages_eus
+[100%] Built target tug_navigation_tools_generate_messages

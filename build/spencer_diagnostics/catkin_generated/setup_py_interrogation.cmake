@@ -1,0 +1,7 @@
+set(spencer_diagnostics_SETUP_PY_SETUP_MODULE "distutils.core")
+set(spencer_diagnostics_SETUP_PY_VERSION "1.3.1")
+set(spencer_diagnostics_SETUP_PY_SCRIPTS "")
+set(spencer_diagnostics_SETUP_PY_PACKAGES "spencer_diagnostics")
+set(spencer_diagnostics_SETUP_PY_PACKAGE_DIRS "src/spencer_diagnostics")
+set(spencer_diagnostics_SETUP_PY_MODULES "")
+set(spencer_diagnostics_SETUP_PY_MODULE_DIRS "")

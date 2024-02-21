@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/pose_follower/lib/python3/dist-packages/pose_follower/__init__.py

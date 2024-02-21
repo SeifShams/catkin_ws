@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/install
+
+Name: srl_laser_features
+Description: Description of srl_laser_features
+Version: 1.3.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lsrl_laser_features
+Requires: roscpp eigen_conversions

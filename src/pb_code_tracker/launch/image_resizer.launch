@@ -1,0 +1,7 @@
+<launch>
+  <node pkg="pb_code_tracker" type="image_resizer_node.py" name="image_resizer">
+    <param name="input_topic" value="/rgb/image_raw"/>
+    <param name="output_topic" value="/rgb/image_resized"/>
+    <param name="image_size" value="(1024, 1024)"/>
+  </node>
+</launch>

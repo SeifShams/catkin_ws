@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/seif/catkin_ws/devel/.private/tug_navigation_tools/setup.sh

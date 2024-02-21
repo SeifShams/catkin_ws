@@ -1,0 +1,2 @@
+people/people
+/home/seif/catkin_ws/devel/.private/people/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock

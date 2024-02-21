@@ -1,0 +1,9 @@
+[33m[1mCMake Warning[0m at /home/seif/catkin_ws/src/spencer_people_tracking/detection/monocular_detectors/rwth_ground_hog/CMakeLists.txt:24 (message):
+  libcudaHOG not found: Compiling rwth_ground_hog without any functionality.
+  This is just a convenience function to not break compilation on systems
+  without NVIDIA graphics cards.  People detection will work without the
+  ground_hog but won't be able to detect people far away from the robot.
+  Please install libcudaHOG from the rwth_perception_people/3rd_party
+  directory if possible.
+
+

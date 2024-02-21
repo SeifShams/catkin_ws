@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_detected_person_conversion/share/spencer_detected_person_conversion/cmake/spencer_detected_person_conversionConfig.cmake

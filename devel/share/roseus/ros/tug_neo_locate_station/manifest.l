@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/tug_neo_locate_station/share/roseus/ros/tug_neo_locate_station/manifest.l

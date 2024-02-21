@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/install
+
+Name: icp_localization
+Description: Description of icp_localization
+Version: 0.5.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -licp_localization
+Requires: pcl_conversions pcl_ros sensor_msgs std_msgs visualization_msgs geometry_msgs roscpp tf2 tf2_ros tf2_geometry_msgs roslib pointmatcher_ros

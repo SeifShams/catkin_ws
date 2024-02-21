@@ -1,0 +1,17 @@
+[ 12%] Built target pose_to_odometry
+[ 25%] Built target laser_scan_inverter
+[ 37%] Built target panorama_builder
+[ 43%] Built target spencer_bagfile_tools_gencfg
+[ 43%] Built target std_msgs_generate_messages_py
+[ 43%] Built target std_msgs_generate_messages_nodejs
+[ 43%] Built target std_msgs_generate_messages_lisp
+[ 43%] Built target _spencer_bagfile_tools_generate_messages_check_deps_AdditionalOdometryData
+[ 43%] Built target std_msgs_generate_messages_eus
+[ 43%] Built target std_msgs_generate_messages_cpp
+[ 56%] Built target publish_camera_info
+[ 68%] Built target spencer_bagfile_tools_generate_messages_py
+[ 75%] Built target spencer_bagfile_tools_generate_messages_nodejs
+[ 81%] Built target spencer_bagfile_tools_generate_messages_lisp
+[ 93%] Built target spencer_bagfile_tools_generate_messages_eus
+[100%] Built target spencer_bagfile_tools_generate_messages_cpp
+[100%] Built target spencer_bagfile_tools_generate_messages

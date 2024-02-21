@@ -1,0 +1,7 @@
+fiducial_tracker
+/home/seif/catkin_ws/devel/.private/fiducial_tracker/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/fiducial_tracker/lib/libfiducial_tracker.so /home/seif/catkin_ws/devel/lib/libfiducial_tracker.so
+/home/seif/catkin_ws/devel/.private/fiducial_tracker/lib/fiducial_tracker/aruco_tracker_node /home/seif/catkin_ws/devel/lib/fiducial_tracker/aruco_tracker_node
+/home/seif/catkin_ws/devel/.private/fiducial_tracker/lib/pkgconfig/fiducial_tracker.pc /home/seif/catkin_ws/devel/lib/pkgconfig/fiducial_tracker.pc
+/home/seif/catkin_ws/devel/.private/fiducial_tracker/share/fiducial_tracker/cmake/fiducial_trackerConfig.cmake /home/seif/catkin_ws/devel/share/fiducial_tracker/cmake/fiducial_trackerConfig.cmake
+/home/seif/catkin_ws/devel/.private/fiducial_tracker/share/fiducial_tracker/cmake/fiducial_trackerConfig-version.cmake /home/seif/catkin_ws/devel/share/fiducial_tracker/cmake/fiducial_trackerConfig-version.cmake

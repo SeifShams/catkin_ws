@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/seif/catkin_ws/devel/.private/azure_kinect_ros_driver/setup.sh

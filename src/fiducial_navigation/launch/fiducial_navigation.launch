@@ -1,0 +1,26 @@
+<launch>
+  <!-- Define default parameter values -->
+  <arg name="camera_frame"          default="rgb_camera_link" />  <!-- Reference frame to calculate the distance to the Fiducial codes -->
+  <arg name="robot_frame"           default="base_footprint" />  <!-- Reference frame to calculate the distance to the Fiducial codes -->
+  <arg name="vel_topic"             default="cmd_vel" />          <!-- Topic where the vel cmd will be published -->
+  <arg name="second_fiducial_frame" default="ArUco2" />           <!-- Tf name for second fiducial code -->
+  <arg name="first_fiducial_frame"  default="ArUco1" />           <!-- Tf name for first fiducial code -->
+  <arg name="offset_x"              default="0.25" />             <!-- Offset in x -->
+  <arg name="offset_y"              default="0.0" />             <!-- Offset in Y -->
+
+  <include file="$(find fiducial_tracker)/launch/aruco_tracker.launch">
+    <param name="camera_frame" type="string" value="$(arg camera_frame)"/>
+    <param name="compute_orientation" type="bool" value="false"/>
+  </include>
+
+  <!-- Launch fiducial_navigation_node with parameters -->
+  <node pkg="fiducial_navigation" type="fiducial_navigation_node" name="fiducial_navigation_node" output="screen">
+    <param name="offset_x" type="string" value="$(arg offset_x)"/>
+    <param name="offset_y" type="string" value="$(arg offset_y)"/>
+    <param name="vel_topic" type="string" value="$(arg vel_topic)"/>
+    <param name="robot_frame" type="string" value="$(arg robot_frame)"/>
+    <param name="camera_frame" type="string" value="$(arg camera_frame)"/>
+    <param name="first_fiducial_frame" type="string" value="$(arg first_fiducial_frame)"/>
+    <param name="second_fiducial_frame" type="string" value="$(arg second_fiducial_frame)"/>
+  </node>
+</launch>

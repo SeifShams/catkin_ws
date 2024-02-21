@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/spencer_vision_msgs
+
+Name: spencer_vision_msgs
+Description: Description of spencer_vision_msgs
+Version: 1.3.1
+Cflags: -I/home/seif/catkin_ws/devel/.private/spencer_vision_msgs/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs geometry_msgs message_runtime

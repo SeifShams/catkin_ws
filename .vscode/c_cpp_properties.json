@@ -1,0 +1,47 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/seif/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/seif/catkin_ws/src/tugger_train_navigation/assisted_teleop/include/**",
+        "/home/seif/catkin_ws/src/azure_kinect_ros_driver/include/**",
+        "/home/seif/catkin_ws/src/dunker_ethercat_interface/include/**",
+        "/home/seif/catkin_ws/src/ekf_pose/include/**",
+        "/home/seif/catkin_ws/src/tugger_train_navigation/goal_passer/include/**",
+        "/home/seif/catkin_ws/src/people/leg_detector/include/**",
+        "/home/seif/catkin_ws/src/message_logger/include/**",
+        "/home/seif/catkin_ws/src/people/people_tracking_filter/include/**",
+        "/home/seif/catkin_ws/src/tugger_train_navigation/pose_base_controller/include/**",
+        "/home/seif/catkin_ws/src/tugger_train_navigation/pose_follower/include/**",
+        "/home/seif/catkin_ws/src/robot_localization/include/**",
+        "/home/seif/catkin_ws/src/spencer_people_tracking/detection/monocular_detectors/rwth_ground_hog/include/**",
+        "/home/seif/catkin_ws/src/spencer_people_tracking/utils/rwth_ground_plane/include/**",
+        "/home/seif/catkin_ws/src/spencer_people_tracking/detection/rgbd_detectors/rwth_upper_body_detector/include/**",
+        "/home/seif/catkin_ws/src/tugger_train_navigation/sbpl_lattice_planner/include/**",
+        "/home/seif/catkin_ws/src/tugger_train_navigation/sbpl_recovery/include/**",
+        "/home/seif/catkin_ws/src/soem_interface/soem_interface/include/**",
+        "/home/seif/catkin_ws/src/soem_interface/soem_interface_examples/include/**",
+        "/home/seif/catkin_ws/src/soem_interface/soem/include/**",
+        "/home/seif/catkin_ws/src/spencer_people_tracking/utils/spencer_diagnostics/include/**",
+        "/home/seif/catkin_ws/src/spencer_people_tracking/detection/laser_detectors/srl_laser_detectors/include/**",
+        "/home/seif/catkin_ws/src/spencer_people_tracking/detection/laser_detectors/srl_laser_features/include/**",
+        "/home/seif/catkin_ws/src/spencer_people_tracking/detection/laser_detectors/srl_laser_segmentation/include/**",
+        "/home/seif/catkin_ws/src/spencer_people_tracking/tracking/people/srl_nearest_neighbor_tracker/include/**",
+        "/home/seif/catkin_ws/src/tug_neo_locate_station/include/**",
+        "/home/seif/catkin_ws/src/tugger_train_navigation/twist_recovery/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_vision_msgs/lib/python3/dist-packages/spencer_vision_msgs/msg/__init__.py

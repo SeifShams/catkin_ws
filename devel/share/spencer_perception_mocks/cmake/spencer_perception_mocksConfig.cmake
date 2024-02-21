@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_perception_mocks/share/spencer_perception_mocks/cmake/spencer_perception_mocksConfig.cmake

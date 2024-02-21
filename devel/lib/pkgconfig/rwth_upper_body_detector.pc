@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/rwth_upper_body_detector/lib/pkgconfig/rwth_upper_body_detector.pc

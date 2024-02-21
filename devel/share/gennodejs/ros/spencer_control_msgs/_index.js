@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_control_msgs/share/gennodejs/ros/spencer_control_msgs/_index.js

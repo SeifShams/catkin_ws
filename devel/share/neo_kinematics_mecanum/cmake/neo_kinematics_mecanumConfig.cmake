@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/neo_kinematics_mecanum/share/neo_kinematics_mecanum/cmake/neo_kinematics_mecanumConfig.cmake

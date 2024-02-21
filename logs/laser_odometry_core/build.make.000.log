@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target laser_odometry_core[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/laser_odometry_core.dir/src/laser_odometry_base.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/laser_odometry_core.dir/src/laser_odometry_instantiater.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/laser_odometry_core.dir/src/laser_odometry_utils.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/laser_odometry_core.dir/src/laser_odometry_conversion.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/seif/catkin_ws/devel/.private/laser_odometry_core/lib/liblaser_odometry_core.so[0m
+[100%] Built target laser_odometry_core

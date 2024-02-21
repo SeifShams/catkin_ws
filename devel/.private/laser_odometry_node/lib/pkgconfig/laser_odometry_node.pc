@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/laser_odometry_node
+
+Name: laser_odometry_node
+Description: Description of laser_odometry_node
+Version: 0.1.0
+Cflags: -I/home/seif/catkin_ws/src/laser_odometry/laser_odometry_node/include
+Libs: -L${prefix}/lib -llaser_odometry_node
+Requires: eigen_conversions laser_odometry_core nav_msgs pluginlib roscpp sensor_msgs tf2_eigen tf2_ros topic_tools

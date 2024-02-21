@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/art_tracker/lib/pkgconfig/art_tracker.pc

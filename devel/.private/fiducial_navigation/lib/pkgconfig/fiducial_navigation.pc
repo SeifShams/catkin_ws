@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/fiducial_navigation
+
+Name: fiducial_navigation
+Description: Description of fiducial_navigation
+Version: 0.0.0
+Cflags: -I/home/seif/catkin_ws/src/fiducial_navigation/include
+Libs: -L${prefix}/lib -lfiducial_navigation
+Requires: roscpp geometry_msgs visualization_msgs

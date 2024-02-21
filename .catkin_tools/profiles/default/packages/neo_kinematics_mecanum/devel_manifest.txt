@@ -1,0 +1,8 @@
+neo_kinematics_mecanum
+/home/seif/catkin_ws/devel/.private/neo_kinematics_mecanum/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/neo_kinematics_mecanum/lib/libneo_kinematics_mecanum.so /home/seif/catkin_ws/devel/lib/libneo_kinematics_mecanum.so
+/home/seif/catkin_ws/devel/.private/neo_kinematics_mecanum/lib/neo_kinematics_mecanum/neo_kinematics_mecanum_node /home/seif/catkin_ws/devel/lib/neo_kinematics_mecanum/neo_kinematics_mecanum_node
+/home/seif/catkin_ws/devel/.private/neo_kinematics_mecanum/lib/neo_kinematics_mecanum/neo_kinematics_mecanum_sim_node /home/seif/catkin_ws/devel/lib/neo_kinematics_mecanum/neo_kinematics_mecanum_sim_node
+/home/seif/catkin_ws/devel/.private/neo_kinematics_mecanum/lib/pkgconfig/neo_kinematics_mecanum.pc /home/seif/catkin_ws/devel/lib/pkgconfig/neo_kinematics_mecanum.pc
+/home/seif/catkin_ws/devel/.private/neo_kinematics_mecanum/share/neo_kinematics_mecanum/cmake/neo_kinematics_mecanumConfig.cmake /home/seif/catkin_ws/devel/share/neo_kinematics_mecanum/cmake/neo_kinematics_mecanumConfig.cmake
+/home/seif/catkin_ws/devel/.private/neo_kinematics_mecanum/share/neo_kinematics_mecanum/cmake/neo_kinematics_mecanumConfig-version.cmake /home/seif/catkin_ws/devel/share/neo_kinematics_mecanum/cmake/neo_kinematics_mecanumConfig-version.cmake

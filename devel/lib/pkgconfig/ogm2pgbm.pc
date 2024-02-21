@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/ogm2pgbm/lib/pkgconfig/ogm2pgbm.pc

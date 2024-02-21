@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/rwth_ground_plane
+
+Name: rwth_ground_plane
+Description: Description of rwth_ground_plane
+Version: 1.3.1
+Cflags: -I/home/seif/catkin_ws/src/spencer_people_tracking/utils/rwth_ground_plane/include
+Libs: -L${prefix}/lib 
+Requires: 

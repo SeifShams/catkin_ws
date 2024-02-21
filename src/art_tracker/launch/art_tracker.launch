@@ -1,0 +1,6 @@
+<launch>
+    <arg name="port"    default="5000" /> 
+    <node pkg="art_tracker" type="art_tracker_node" name="art_tracker_node" output="screen">
+        <param name="port" type="string" value="$(arg port)"/>
+    </node>
+</launch>

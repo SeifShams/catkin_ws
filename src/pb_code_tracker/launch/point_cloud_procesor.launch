@@ -1,0 +1,3 @@
+<launch>
+    <node name="point_cloud_processor" pkg="pb_code_tracker" type="get_depth.py" output="screen"/>
+</launch>

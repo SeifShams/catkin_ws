@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_diagnostics/share/spencer_diagnostics/cmake/spencer_diagnosticsConfig-version.cmake

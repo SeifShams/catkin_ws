@@ -1,0 +1,64 @@
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:[m[K In member function ‘[01m[Kvoid fiducial_navigation::FiducialNavigation::timerCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:170:34:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kx_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  170 |       vff_vector.attractive_x = {[01;35m[Kx_vel[m[K, 0.0, 0.0};  // Robot wants to go forward
+      |                                  [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:170:34:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kx_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:171:39:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ky_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  171 |       vff_vector.attractive_y = {0.0, [01;35m[Ky_vel[m[K, 0.0};
+      |                                       [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:171:39:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ky_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:172:44:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kz_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  172 |       vff_vector.attractive_z = {0.0, 0.0, [01;35m[Kz_vel[m[K};
+      |                                            [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:172:44:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kz_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:28:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kx_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  173 |       vff_vector.result = {[01;35m[Kx_vel[m[K, y_vel, z_vel};
+      |                            [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:28:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kx_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:35:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ky_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  173 |       vff_vector.result = {x_vel, [01;35m[Ky_vel[m[K, z_vel};
+      |                                   [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:35:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ky_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:42:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kz_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  173 |       vff_vector.result = {x_vel, y_vel, [01;35m[Kz_vel[m[K};
+      |                                          [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:42:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kz_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:150:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kevent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  150 |     FiducialNavigation::timerCallback([01;35m[Kconst ros::TimerEvent& event[m[K)
+      |                                       [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:[m[K In member function ‘[01m[Kvisualization_msgs::Marker fiducial_navigation::FiducialNavigation::make_marker(const std::vector<float>&, fiducial_navigation::VFFColor)[m[K’:
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:234:14:[m[K [01;35m[Kwarning: [m[Kenumeration value ‘[01m[KNUM_COLORS[m[K’ not handled in switch [[01;35m[K-Wswitch[m[K]
+  234 |       switch [01;35m[K([m[Kvff_color) {
+      |              [01;35m[K^[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:[m[K In member function ‘[01m[Kvoid fiducial_navigation::FiducialNavigation::timerCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:170:34:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kx_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  170 |       vff_vector.attractive_x = {[01;35m[Kx_vel[m[K, 0.0, 0.0};  // Robot wants to go forward
+      |                                  [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:170:34:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kx_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:171:39:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ky_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  171 |       vff_vector.attractive_y = {0.0, [01;35m[Ky_vel[m[K, 0.0};
+      |                                       [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:171:39:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ky_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:172:44:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kz_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  172 |       vff_vector.attractive_z = {0.0, 0.0, [01;35m[Kz_vel[m[K};
+      |                                            [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:172:44:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kz_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:28:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kx_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  173 |       vff_vector.result = {[01;35m[Kx_vel[m[K, y_vel, z_vel};
+      |                            [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:28:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kx_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:35:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ky_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  173 |       vff_vector.result = {x_vel, [01;35m[Ky_vel[m[K, z_vel};
+      |                                   [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:35:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Ky_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:42:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kz_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  173 |       vff_vector.result = {x_vel, y_vel, [01;35m[Kz_vel[m[K};
+      |                                          [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:173:42:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kz_vel[m[K’ from ‘[01m[Kdouble[m[K’ to ‘[01m[Kfloat[m[K’ [[01;35m[K-Wnarrowing[m[K]
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:150:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kevent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  150 |     FiducialNavigation::timerCallback([01;35m[Kconst ros::TimerEvent& event[m[K)
+      |                                       [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:[m[K In member function ‘[01m[Kvisualization_msgs::Marker fiducial_navigation::FiducialNavigation::make_marker(const std::vector<float>&, fiducial_navigation::VFFColor)[m[K’:
+[01m[K/home/seif/catkin_ws/src/fiducial_navigation/src/fiducial_navigation/FiducialNavigation.cpp:234:14:[m[K [01;35m[Kwarning: [m[Kenumeration value ‘[01m[KNUM_COLORS[m[K’ not handled in switch [[01;35m[K-Wswitch[m[K]
+  234 |       switch [01;35m[K([m[Kvff_color) {
+      |              [01;35m[K^[m[K

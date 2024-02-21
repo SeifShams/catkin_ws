@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/tugger_train_bringup/lib/pkgconfig/tugger_train_bringup.pc

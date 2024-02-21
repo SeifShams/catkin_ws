@@ -1,0 +1,6 @@
+spencer_people_tracking/detection/laser_detectors/srl_laser_features
+/home/seif/catkin_ws/devel/.private/srl_laser_features/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/srl_laser_features/lib/libsrl_laser_features.so /home/seif/catkin_ws/devel/lib/libsrl_laser_features.so
+/home/seif/catkin_ws/devel/.private/srl_laser_features/lib/pkgconfig/srl_laser_features.pc /home/seif/catkin_ws/devel/lib/pkgconfig/srl_laser_features.pc
+/home/seif/catkin_ws/devel/.private/srl_laser_features/share/srl_laser_features/cmake/srl_laser_featuresConfig.cmake /home/seif/catkin_ws/devel/share/srl_laser_features/cmake/srl_laser_featuresConfig.cmake
+/home/seif/catkin_ws/devel/.private/srl_laser_features/share/srl_laser_features/cmake/srl_laser_featuresConfig-version.cmake /home/seif/catkin_ws/devel/share/srl_laser_features/cmake/srl_laser_featuresConfig-version.cmake

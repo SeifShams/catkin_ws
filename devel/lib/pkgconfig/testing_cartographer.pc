@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/testing_cartographer/lib/pkgconfig/testing_cartographer.pc

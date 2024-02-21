@@ -1,0 +1,22 @@
+<package>
+  <name>online_verification</name>
+  <version>0.0.1</version>
+
+  <description>Node that does an online verification of the robot safety</description>
+  <author email="fuqi.guan@tum.de">Fuqi Guan</author>
+  <author email="philipp.schmutz@tum.de">Philipp Schmutz</author>
+
+  <maintainer email="philipp.schmutz@tum.de">Philipp Schmutz</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <!--run_depend>roslaunch</run_depend>
+  <run_depend>python3-shapely</run_depend>
+  <run_depend>python3-descartes</run_depend>
+  <run_depend>python3-tk</run_depend>
+  <run_depend>python3-pint</run_depend>
+  <run_depend>python3-trimesh</run_depend-->
+
+
+</package>

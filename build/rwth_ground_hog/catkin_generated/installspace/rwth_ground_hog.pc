@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/install
+
+Name: rwth_ground_hog
+Description: Description of rwth_ground_hog
+Version: 1.3.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

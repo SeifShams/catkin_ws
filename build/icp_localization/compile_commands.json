@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/helpers.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/helpers.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/helpers.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/RangeDataAccumulator.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/RangeDataAccumulator.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/RangeDataAccumulator.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/ICPlocalization.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/ICPlocalization.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/ICPlocalization.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/RigidTransform.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/RigidTransform.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/RigidTransform.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/Twist.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/Twist.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/Twist.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/TwistIntegrationBuffer.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/TwistIntegrationBuffer.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/TwistIntegrationBuffer.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/TwistIntegrationBufferRos.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/TwistIntegrationBufferRos.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/TwistIntegrationBufferRos.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/TransformInterpolationBuffer.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/TransformInterpolationBuffer.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/TransformInterpolationBuffer.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/TfPublisher.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/TfPublisher.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/TfPublisher.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/FrameTracker.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/FrameTracker.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/ImuReading.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/ImuReading.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/ImuReading.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/ImuTracker.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/ImuTracker.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/transform/ImuInterpolationBuffer.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/transform/ImuInterpolationBuffer.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/transform/ImuInterpolationBuffer.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/common/time.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/common/time.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/common/time.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -Dicp_localization_EXPORTS -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/icp_localization.dir/src/common/math.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/common/math.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/common/math.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"icp_localization\\\" -I/home/seif/catkin_ws/src/icp_localization/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /usr/include/eigen3 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2    -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/localizer_node.dir/src/localizer_node.cpp.o -c /home/seif/catkin_ws/src/icp_localization/src/localizer_node.cpp",
+  "file": "/home/seif/catkin_ws/src/icp_localization/src/localizer_node.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/icp_localization/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

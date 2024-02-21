@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/pose_base_controller/share/pose_base_controller/cmake/pose_base_controllerConfig.cmake

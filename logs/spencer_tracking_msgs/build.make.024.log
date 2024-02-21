@@ -1,0 +1,30 @@
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_CompositeDetectedPerson
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_ImmDebugInfos
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_ImmDebugInfo
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_TrackedGroups
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_TrackedPerson2d
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_TrackedPersons
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_TrackedPerson
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_CompositeDetectedPersons
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_TrackedPersons2d
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_TrackedGroup
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_TrackingTimingMetrics
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_GetPersonTrajectories
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_DetectedPerson
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _spencer_tracking_msgs_generate_messages_check_deps_DetectedPersons
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 20%] Built target spencer_tracking_msgs_generate_messages_eus
+[ 39%] Built target spencer_tracking_msgs_generate_messages_nodejs
+[ 58%] Built target spencer_tracking_msgs_generate_messages_lisp
+[ 80%] Built target spencer_tracking_msgs_generate_messages_py
+[100%] Built target spencer_tracking_msgs_generate_messages_cpp
+[100%] Built target spencer_tracking_msgs_generate_messages

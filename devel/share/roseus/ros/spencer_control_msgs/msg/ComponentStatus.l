@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_control_msgs/share/roseus/ros/spencer_control_msgs/msg/ComponentStatus.l

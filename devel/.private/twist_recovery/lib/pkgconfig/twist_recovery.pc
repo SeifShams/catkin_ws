@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/twist_recovery
+
+Name: twist_recovery
+Description: Description of twist_recovery
+Version: 0.3.4
+Cflags: -I/home/seif/catkin_ws/src/tugger_train_navigation/twist_recovery/include
+Libs: -L${prefix}/lib -ltwist_recovery
+Requires: nav_core costmap_2d geometry_msgs pluginlib base_local_planner tf2_geometry_msgs tf2_ros

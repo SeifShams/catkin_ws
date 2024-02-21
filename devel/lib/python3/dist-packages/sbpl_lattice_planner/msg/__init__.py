@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/sbpl_lattice_planner/lib/python3/dist-packages/sbpl_lattice_planner/msg/__init__.py

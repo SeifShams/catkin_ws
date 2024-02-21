@@ -1,0 +1,13 @@
+people/leg_detector
+/home/seif/catkin_ws/devel/.private/leg_detector/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/leg_detector/lib/leg_detector/leg_detector /home/seif/catkin_ws/devel/lib/leg_detector/leg_detector
+/home/seif/catkin_ws/devel/.private/leg_detector/lib/python3/dist-packages/leg_detector/__init__.py /home/seif/catkin_ws/devel/lib/python3/dist-packages/leg_detector/__init__.py
+/home/seif/catkin_ws/devel/.private/leg_detector/lib/python3/dist-packages/leg_detector/cfg/LegDetectorConfig.py /home/seif/catkin_ws/devel/lib/python3/dist-packages/leg_detector/cfg/LegDetectorConfig.py
+/home/seif/catkin_ws/devel/.private/leg_detector/lib/python3/dist-packages/leg_detector/cfg/__init__.py /home/seif/catkin_ws/devel/lib/python3/dist-packages/leg_detector/cfg/__init__.py
+/home/seif/catkin_ws/devel/.private/leg_detector/lib/pkgconfig/leg_detector.pc /home/seif/catkin_ws/devel/lib/pkgconfig/leg_detector.pc
+/home/seif/catkin_ws/devel/.private/leg_detector/share/leg_detector/docs/LegDetectorConfig.wikidoc /home/seif/catkin_ws/devel/share/leg_detector/docs/LegDetectorConfig.wikidoc
+/home/seif/catkin_ws/devel/.private/leg_detector/share/leg_detector/docs/LegDetectorConfig.dox /home/seif/catkin_ws/devel/share/leg_detector/docs/LegDetectorConfig.dox
+/home/seif/catkin_ws/devel/.private/leg_detector/share/leg_detector/docs/LegDetectorConfig-usage.dox /home/seif/catkin_ws/devel/share/leg_detector/docs/LegDetectorConfig-usage.dox
+/home/seif/catkin_ws/devel/.private/leg_detector/share/leg_detector/cmake/leg_detectorConfig.cmake /home/seif/catkin_ws/devel/share/leg_detector/cmake/leg_detectorConfig.cmake
+/home/seif/catkin_ws/devel/.private/leg_detector/share/leg_detector/cmake/leg_detectorConfig-version.cmake /home/seif/catkin_ws/devel/share/leg_detector/cmake/leg_detectorConfig-version.cmake
+/home/seif/catkin_ws/devel/.private/leg_detector/include/leg_detector/LegDetectorConfig.h /home/seif/catkin_ws/devel/include/leg_detector/LegDetectorConfig.h

@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/sbpl_lattice_planner/share/roseus/ros/sbpl_lattice_planner/msg/SBPLLatticePlannerStats.l

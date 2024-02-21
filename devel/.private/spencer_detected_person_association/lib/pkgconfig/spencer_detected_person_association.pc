@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/spencer_detected_person_association
+
+Name: spencer_detected_person_association
+Description: Description of spencer_detected_person_association
+Version: 1.3.1
+Cflags: -I/home/seif/catkin_ws/devel/.private/spencer_detected_person_association/include
+Libs: -L${prefix}/lib 
+Requires: roscpp message_filters spencer_tracking_msgs std_msgs nodelet eigen_conversions tf_conversions

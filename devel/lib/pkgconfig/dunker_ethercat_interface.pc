@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/dunker_ethercat_interface/lib/pkgconfig/dunker_ethercat_interface.pc

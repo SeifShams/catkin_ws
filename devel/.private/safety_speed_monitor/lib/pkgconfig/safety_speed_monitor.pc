@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/safety_speed_monitor
+
+Name: safety_speed_monitor
+Description: Description of safety_speed_monitor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

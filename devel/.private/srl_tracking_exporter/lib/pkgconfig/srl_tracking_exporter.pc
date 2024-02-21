@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel/.private/srl_tracking_exporter
+
+Name: srl_tracking_exporter
+Description: Description of srl_tracking_exporter
+Version: 1.3.1
+Cflags: -I/home/seif/catkin_ws/devel/.private/srl_tracking_exporter/include
+Libs: -L${prefix}/lib 
+Requires: 

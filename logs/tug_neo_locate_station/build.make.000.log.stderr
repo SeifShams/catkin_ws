@@ -1,0 +1,8 @@
+In file included from [01m[K/home/seif/catkin_ws/src/tug_neo_locate_station/src/locate_station_client.cpp:2[m[K:
+[01m[K/home/seif/catkin_ws/src/tug_neo_locate_station/include/tug_neo_locate_station/locate_station.h:32:10:[m[K [01;31m[Kfatal error: [m[Ktug_neo_locate_station/LocateStation.h: No such file or directory
+   32 | #include [01;31m[K<tug_neo_locate_station/LocateStation.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/tug_neo_locate_station_client.dir/build.make:63: CMakeFiles/tug_neo_locate_station_client.dir/src/locate_station_client.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:202: CMakeFiles/tug_neo_locate_station_client.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

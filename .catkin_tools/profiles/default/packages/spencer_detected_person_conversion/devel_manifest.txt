@@ -1,0 +1,5 @@
+spencer_people_tracking/detection/spencer_detected_person_conversion
+/home/seif/catkin_ws/devel/.private/spencer_detected_person_conversion/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/spencer_detected_person_conversion/lib/pkgconfig/spencer_detected_person_conversion.pc /home/seif/catkin_ws/devel/lib/pkgconfig/spencer_detected_person_conversion.pc
+/home/seif/catkin_ws/devel/.private/spencer_detected_person_conversion/share/spencer_detected_person_conversion/cmake/spencer_detected_person_conversionConfig.cmake /home/seif/catkin_ws/devel/share/spencer_detected_person_conversion/cmake/spencer_detected_person_conversionConfig.cmake
+/home/seif/catkin_ws/devel/.private/spencer_detected_person_conversion/share/spencer_detected_person_conversion/cmake/spencer_detected_person_conversionConfig-version.cmake /home/seif/catkin_ws/devel/share/spencer_detected_person_conversion/cmake/spencer_detected_person_conversionConfig-version.cmake

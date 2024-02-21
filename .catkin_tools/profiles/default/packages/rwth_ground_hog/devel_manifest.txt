@@ -1,0 +1,6 @@
+spencer_people_tracking/detection/monocular_detectors/rwth_ground_hog
+/home/seif/catkin_ws/devel/.private/rwth_ground_hog/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/rwth_ground_hog/lib/rwth_ground_hog/groundHOG /home/seif/catkin_ws/devel/lib/rwth_ground_hog/groundHOG
+/home/seif/catkin_ws/devel/.private/rwth_ground_hog/lib/pkgconfig/rwth_ground_hog.pc /home/seif/catkin_ws/devel/lib/pkgconfig/rwth_ground_hog.pc
+/home/seif/catkin_ws/devel/.private/rwth_ground_hog/share/rwth_ground_hog/cmake/rwth_ground_hogConfig-version.cmake /home/seif/catkin_ws/devel/share/rwth_ground_hog/cmake/rwth_ground_hogConfig-version.cmake
+/home/seif/catkin_ws/devel/.private/rwth_ground_hog/share/rwth_ground_hog/cmake/rwth_ground_hogConfig.cmake /home/seif/catkin_ws/devel/share/rwth_ground_hog/cmake/rwth_ground_hogConfig.cmake

@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/cob_sick_s300/lib/pkgconfig/cob_sick_s300.pc

@@ -1,0 +1,6 @@
+spencer_people_tracking/tracking/groups/spencer_social_relations
+/home/seif/catkin_ws/devel/.private/spencer_social_relations/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/spencer_social_relations/lib/spencer_social_relations/spatial_relations /home/seif/catkin_ws/devel/lib/spencer_social_relations/spatial_relations
+/home/seif/catkin_ws/devel/.private/spencer_social_relations/lib/pkgconfig/spencer_social_relations.pc /home/seif/catkin_ws/devel/lib/pkgconfig/spencer_social_relations.pc
+/home/seif/catkin_ws/devel/.private/spencer_social_relations/share/spencer_social_relations/cmake/spencer_social_relationsConfig-version.cmake /home/seif/catkin_ws/devel/share/spencer_social_relations/cmake/spencer_social_relationsConfig-version.cmake
+/home/seif/catkin_ws/devel/.private/spencer_social_relations/share/spencer_social_relations/cmake/spencer_social_relationsConfig.cmake /home/seif/catkin_ws/devel/share/spencer_social_relations/cmake/spencer_social_relationsConfig.cmake

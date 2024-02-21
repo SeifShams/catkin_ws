@@ -1,0 +1,8 @@
+spencer_people_tracking/utils/spencer_diagnostics
+/home/seif/catkin_ws/devel/.private/spencer_diagnostics/cmake.lock /home/seif/catkin_ws/devel/./cmake.lock
+/home/seif/catkin_ws/devel/.private/spencer_diagnostics/lib/libspencer_diagnostics.so /home/seif/catkin_ws/devel/lib/libspencer_diagnostics.so
+/home/seif/catkin_ws/devel/.private/spencer_diagnostics/lib/spencer_diagnostics/tf_lookup_monitor /home/seif/catkin_ws/devel/lib/spencer_diagnostics/tf_lookup_monitor
+/home/seif/catkin_ws/devel/.private/spencer_diagnostics/lib/python3/dist-packages/spencer_diagnostics/__init__.py /home/seif/catkin_ws/devel/lib/python3/dist-packages/spencer_diagnostics/__init__.py
+/home/seif/catkin_ws/devel/.private/spencer_diagnostics/lib/pkgconfig/spencer_diagnostics.pc /home/seif/catkin_ws/devel/lib/pkgconfig/spencer_diagnostics.pc
+/home/seif/catkin_ws/devel/.private/spencer_diagnostics/share/spencer_diagnostics/cmake/spencer_diagnosticsConfig-version.cmake /home/seif/catkin_ws/devel/share/spencer_diagnostics/cmake/spencer_diagnosticsConfig-version.cmake
+/home/seif/catkin_ws/devel/.private/spencer_diagnostics/share/spencer_diagnostics/cmake/spencer_diagnosticsConfig.cmake /home/seif/catkin_ws/devel/share/spencer_diagnostics/cmake/spencer_diagnosticsConfig.cmake

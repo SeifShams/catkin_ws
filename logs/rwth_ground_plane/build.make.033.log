@@ -1,0 +1,5 @@
+[  0%] Built target rwth_perception_people_msgs_generate_messages_cpp
+[ 14%] Built target ground_plane_really_fixed
+[ 28%] Built target ground_plane_fixed
+[ 85%] Built target ground_plane_estimated
+[100%] Built target ground_plane_tf_based_fixed

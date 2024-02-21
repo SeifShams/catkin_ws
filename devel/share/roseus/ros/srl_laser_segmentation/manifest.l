@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/srl_laser_segmentation/share/roseus/ros/srl_laser_segmentation/manifest.l

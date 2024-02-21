@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/spencer_social_relations/share/spencer_social_relations/cmake/spencer_social_relationsConfig.cmake

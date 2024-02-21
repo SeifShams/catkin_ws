@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/tug-controller-damping/lib/pkgconfig/tug-controller-damping.pc

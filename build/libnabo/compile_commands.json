@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/seif/catkin_ws/build/libnabo",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_PYTHON_DYN_LINK -DHAVE_OPENMP=TRUE -DROS_BUILD_SHARED_LIBS=1 -I/home/seif/catkin_ws/src/libnabo/nabo -I/home/seif/catkin_ws/src/libnabo/tests -I/home/seif/catkin_ws/src/libnabo/SYSTEM -I/usr/include/eigen3 -I/home/seif/catkin_ws/src/libnabo -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest    -O3 -Wall -Wextra -Wpedantic -fopenmp -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/test_nabo.dir/tests/empty_test.cpp.o -c /home/seif/catkin_ws/src/libnabo/tests/empty_test.cpp",
+  "file": "/home/seif/catkin_ws/src/libnabo/tests/empty_test.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/libnabo",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_PYTHON_DYN_LINK -DHAVE_OPENMP=TRUE -DROS_BUILD_SHARED_LIBS=1 -Dnabo_EXPORTS -I/home/seif/catkin_ws/src/libnabo -I/home/seif/catkin_ws/src/libnabo/nabo -I/home/seif/catkin_ws/src/libnabo/SYSTEM -I/usr/include/eigen3  -fPIC   -O3 -Wall -Wextra -Wpedantic -fopenmp -std=gnu++14 -o CMakeFiles/nabo.dir/nabo/nabo.cpp.o -c /home/seif/catkin_ws/src/libnabo/nabo/nabo.cpp",
+  "file": "/home/seif/catkin_ws/src/libnabo/nabo/nabo.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/libnabo",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_PYTHON_DYN_LINK -DHAVE_OPENMP=TRUE -DROS_BUILD_SHARED_LIBS=1 -Dnabo_EXPORTS -I/home/seif/catkin_ws/src/libnabo -I/home/seif/catkin_ws/src/libnabo/nabo -I/home/seif/catkin_ws/src/libnabo/SYSTEM -I/usr/include/eigen3  -fPIC   -O3 -Wall -Wextra -Wpedantic -fopenmp -std=gnu++14 -o CMakeFiles/nabo.dir/nabo/brute_force_cpu.cpp.o -c /home/seif/catkin_ws/src/libnabo/nabo/brute_force_cpu.cpp",
+  "file": "/home/seif/catkin_ws/src/libnabo/nabo/brute_force_cpu.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/libnabo",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_PYTHON_DYN_LINK -DHAVE_OPENMP=TRUE -DROS_BUILD_SHARED_LIBS=1 -Dnabo_EXPORTS -I/home/seif/catkin_ws/src/libnabo -I/home/seif/catkin_ws/src/libnabo/nabo -I/home/seif/catkin_ws/src/libnabo/SYSTEM -I/usr/include/eigen3  -fPIC   -O3 -Wall -Wextra -Wpedantic -fopenmp -std=gnu++14 -o CMakeFiles/nabo.dir/nabo/kdtree_cpu.cpp.o -c /home/seif/catkin_ws/src/libnabo/nabo/kdtree_cpu.cpp",
+  "file": "/home/seif/catkin_ws/src/libnabo/nabo/kdtree_cpu.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/libnabo",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_PYTHON_DYN_LINK -DHAVE_OPENMP=TRUE -DROS_BUILD_SHARED_LIBS=1 -Dnabo_EXPORTS -I/home/seif/catkin_ws/src/libnabo -I/home/seif/catkin_ws/src/libnabo/nabo -I/home/seif/catkin_ws/src/libnabo/SYSTEM -I/usr/include/eigen3  -fPIC   -O3 -Wall -Wextra -Wpedantic -fopenmp -std=gnu++14 -o CMakeFiles/nabo.dir/nabo/kdtree_opencl.cpp.o -c /home/seif/catkin_ws/src/libnabo/nabo/kdtree_opencl.cpp",
+  "file": "/home/seif/catkin_ws/src/libnabo/nabo/kdtree_opencl.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/libnabo/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -O3 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/libnabo/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -O3 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/libnabo/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -O3 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/libnabo/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -fPIC   -O3 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

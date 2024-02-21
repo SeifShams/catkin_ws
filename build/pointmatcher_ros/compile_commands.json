@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DHAVE_YAML_CPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"pointmatcher_ros\\\" -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -isystem /usr/include/ni -isystem /usr/include/openni2      -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=gnu++14 -o CMakeFiles/test_pointmatcher_ros.dir/test/RosPointCloud2DeserializerTest.cpp.o -c /home/seif/catkin_ws/src/pointmatcher-ros/test/RosPointCloud2DeserializerTest.cpp",
+  "file": "/home/seif/catkin_ws/src/pointmatcher-ros/test/RosPointCloud2DeserializerTest.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DHAVE_YAML_CPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"pointmatcher_ros\\\" -Dpointmatcher_ros_EXPORTS -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/pointmatcher_ros.dir/src/helper_functions.cpp.o -c /home/seif/catkin_ws/src/pointmatcher-ros/src/helper_functions.cpp",
+  "file": "/home/seif/catkin_ws/src/pointmatcher-ros/src/helper_functions.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DHAVE_YAML_CPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"pointmatcher_ros\\\" -Dpointmatcher_ros_EXPORTS -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/pointmatcher_ros.dir/src/deserialization.cpp.o -c /home/seif/catkin_ws/src/pointmatcher-ros/src/deserialization.cpp",
+  "file": "/home/seif/catkin_ws/src/pointmatcher-ros/src/deserialization.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DHAVE_YAML_CPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"pointmatcher_ros\\\" -Dpointmatcher_ros_EXPORTS -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/pointmatcher_ros.dir/src/serialization.cpp.o -c /home/seif/catkin_ws/src/pointmatcher-ros/src/serialization.cpp",
+  "file": "/home/seif/catkin_ws/src/pointmatcher-ros/src/serialization.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DHAVE_YAML_CPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"pointmatcher_ros\\\" -Dpointmatcher_ros_EXPORTS -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/pointmatcher_ros.dir/src/transform.cpp.o -c /home/seif/catkin_ws/src/pointmatcher-ros/src/transform.cpp",
+  "file": "/home/seif/catkin_ws/src/pointmatcher-ros/src/transform.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DHAVE_YAML_CPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"pointmatcher_ros\\\" -Dpointmatcher_ros_EXPORTS -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/pointmatcher_ros.dir/src/PmTf.cpp.o -c /home/seif/catkin_ws/src/pointmatcher-ros/src/PmTf.cpp",
+  "file": "/home/seif/catkin_ws/src/pointmatcher-ros/src/PmTf.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DHAVE_YAML_CPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"pointmatcher_ros\\\" -Dpointmatcher_ros_EXPORTS -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/pointmatcher_ros.dir/src/PointMatcherFilterInterface.cpp.o -c /home/seif/catkin_ws/src/pointmatcher-ros/src/PointMatcherFilterInterface.cpp",
+  "file": "/home/seif/catkin_ws/src/pointmatcher-ros/src/PointMatcherFilterInterface.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DHAVE_YAML_CPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"pointmatcher_ros\\\" -Dpointmatcher_ros_EXPORTS -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/pointmatcher_ros.dir/src/RosPointCloud2Deserializer.cpp.o -c /home/seif/catkin_ws/src/pointmatcher-ros/src/RosPointCloud2Deserializer.cpp",
+  "file": "/home/seif/catkin_ws/src/pointmatcher-ros/src/RosPointCloud2Deserializer.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DHAVE_YAML_CPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"pointmatcher_ros\\\" -Dpointmatcher_ros_EXPORTS -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/home/seif/catkin_ws/src/pointmatcher-ros/include -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/eigen3 -isystem /usr/include/pcl-1.10 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /home/seif/catkin_ws/devel/include -isystem /home/seif/catkin_ws/src/libpointmatcher -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/pointmatcher_ros.dir/src/StampedPointCloud.cpp.o -c /home/seif/catkin_ws/src/pointmatcher-ros/src/StampedPointCloud.cpp",
+  "file": "/home/seif/catkin_ws/src/pointmatcher-ros/src/StampedPointCloud.cpp"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/seif/catkin_ws/build/pointmatcher_ros/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

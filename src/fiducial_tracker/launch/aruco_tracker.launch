@@ -1,0 +1,9 @@
+<launch>
+    <arg name="camera_frame"                default="depth_front_camera_base" />  <!-- Reference frame to calculate the distance to the Fiducial codes -->
+    <arg name="compute_orientation"         default="false" />  <!-- Reference frame to calculate the distance to the Fiducial codes -->
+    <node pkg="fiducial_tracker" type="aruco_tracker_node" name="aruco_tracker_node" output="screen">
+        <param name="camera_frame" type="string" value="$(arg camera_frame)"/>
+        <param name="compute_orientation" type="bool" value="$(arg compute_orientation)"/>
+    </node>
+</launch>
+

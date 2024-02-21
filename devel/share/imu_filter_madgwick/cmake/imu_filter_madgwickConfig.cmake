@@ -1,0 +1,1 @@
+/home/seif/catkin_ws/devel/.private/imu_filter_madgwick/share/imu_filter_madgwick/cmake/imu_filter_madgwickConfig.cmake

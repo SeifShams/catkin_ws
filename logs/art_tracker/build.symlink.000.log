@@ -1,0 +1,5 @@
+Symlinking /home/seif/catkin_ws/devel/lib/libart_tracker.so
+Symlinking /home/seif/catkin_ws/devel/lib/art_tracker/art_tracker_node
+Symlinking /home/seif/catkin_ws/devel/lib/pkgconfig/art_tracker.pc
+Symlinking /home/seif/catkin_ws/devel/share/art_tracker/cmake/art_trackerConfig.cmake
+Symlinking /home/seif/catkin_ws/devel/share/art_tracker/cmake/art_trackerConfig-version.cmake

@@ -1,0 +1,1049 @@
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPoints.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:61:3:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   61 |  }[01;35m[K;[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:[m[K In member function ‘[01m[Kvirtual void PointMatcherSupport::Logger::beginInfoEntry(const char*, unsigned int, const char*)[m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:64:42:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfile[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   64 |  void Logger::beginInfoEntry([01;35m[Kconst char *file[m[K, unsigned line, const char *func)
+      |                              [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:64:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kline[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   64 |  void Logger::beginInfoEntry(const char *file, [01;35m[Kunsigned line[m[K, const char *func)
+      |                                                [01;35m[K~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:64:75:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfunc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   64 |  void Logger::beginInfoEntry(const char *file, unsigned line, [01;35m[Kconst char *func[m[K)
+      |                                                               [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:[m[K In member function ‘[01m[Kvirtual void PointMatcherSupport::Logger::finishInfoEntry(const char*, unsigned int, const char*)[m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:74:43:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfile[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   74 |  void Logger::finishInfoEntry([01;35m[Kconst char *file[m[K, unsigned line, const char *func)
+      |                               [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:74:58:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kline[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   74 |  void Logger::finishInfoEntry(const char *file, [01;35m[Kunsigned line[m[K, const char *func)
+      |                                                 [01;35m[K~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:74:76:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfunc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   74 |  void Logger::finishInfoEntry(const char *file, unsigned line, [01;35m[Kconst char *func[m[K)
+      |                                                                [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:[m[K In member function ‘[01m[Kvirtual void PointMatcherSupport::Logger::beginWarningEntry(const char*, unsigned int, const char*)[m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:84:45:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfile[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   84 |  void Logger::beginWarningEntry([01;35m[Kconst char *file[m[K, unsigned line, const char *func)
+      |                                 [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:84:60:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kline[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   84 |  void Logger::beginWarningEntry(const char *file, [01;35m[Kunsigned line[m[K, const char *func)
+      |                                                   [01;35m[K~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:84:78:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfunc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   84 |  void Logger::beginWarningEntry(const char *file, unsigned line, [01;35m[Kconst char *func[m[K)
+      |                                                                  [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:[m[K In member function ‘[01m[Kvirtual void PointMatcherSupport::Logger::finishWarningEntry(const char*, unsigned int, const char*)[m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:94:46:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfile[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   94 |  void Logger::finishWarningEntry([01;35m[Kconst char *file[m[K, unsigned line, const char *func)
+      |                                  [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:94:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kline[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   94 |  void Logger::finishWarningEntry(const char *file, [01;35m[Kunsigned line[m[K, const char *func)
+      |                                                    [01;35m[K~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Logger.cpp:94:79:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfunc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   94 |  void Logger::finishWarningEntry(const char *file, unsigned line, [01;35m[Kconst char *func[m[K)
+      |                                                                   [01;35m[K~~~~~~~~~~~~^~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Matches.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.h:41[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.h:38[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFiltersImpl.h:60[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:42[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/utils.h:159:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+  159 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:8[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:52[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/parser.h:46:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   46 |   std::[01;35m[Kauto_ptr[m[K<Scanner> m_pScanner;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:8[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:52[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/parser.h:47:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   47 |   std::[01;35m[Kauto_ptr[m[K<Directives> m_pDirectives;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:9[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:52[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/emitter.h:105:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  105 |   std::[01;35m[Kauto_ptr[m[K <EmitterState> m_pState;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:14[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:52[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/iterator.h:20:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   20 |   Iterator(std::[01;35m[Kauto_ptr[m[K<IterPriv> pData);
+      |                 [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:14[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:52[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/iterator.h:36:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   36 |   std::[01;35m[Kauto_ptr[m[K<IterPriv> m_pData;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:52[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:43:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 |   std::[01;35m[Kauto_ptr[m[K<Node> Clone() const;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:52[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:117:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  117 |   std::[01;35m[Kauto_ptr[m[K<NodeOwnership> m_pOwnership;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registry.cpp:36[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.h:41[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.h:38[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFiltersImpl.h:60[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registry.cpp:40[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/utils.h:159:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+  159 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::ICPChainBase::loadAdditionalYAMLContent(YAML_PM::Node&) [with T = float][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:238:38:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:94:75:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kdoc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   94 | void PointMatcher<T>::ICPChainBase::loadAdditionalYAMLContent([01;35m[KYAML::Node& doc[m[K)
+      |                                                               [01;35m[K~~~~~~~~~~~~^~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::ICPChainBase::loadAdditionalYAMLContent(YAML_PM::Node&) [with T = double][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:239:39:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ICP.cpp:94:75:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kdoc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:8[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:6[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/parser.h:46:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   46 |   std::[01;35m[Kauto_ptr[m[K<Scanner> m_pScanner;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:1[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:8[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:6[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/parser.h:47:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   47 |   std::[01;35m[Kauto_ptr[m[K<Directives> m_pDirectives;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:1[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:9[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:6[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/emitter.h:105:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  105 |   std::[01;35m[Kauto_ptr[m[K <EmitterState> m_pState;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:1[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:14[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:6[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/iterator.h:20:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   20 |   Iterator(std::[01;35m[Kauto_ptr[m[K<IterPriv> pData);
+      |                 [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:1[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:14[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:6[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/iterator.h:36:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   36 |   std::[01;35m[Kauto_ptr[m[K<IterPriv> m_pData;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:1[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:6[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:43:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 |   std::[01;35m[Kauto_ptr[m[K<Node> Clone() const;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:1[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:6[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:117:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  117 |   std::[01;35m[Kauto_ptr[m[K<NodeOwnership> m_pOwnership;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Registrar.cpp:1[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:8[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:42[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/parser.h:46:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   46 |   std::[01;35m[Kauto_ptr[m[K<Scanner> m_pScanner;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:8[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:42[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/parser.h:47:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   47 |   std::[01;35m[Kauto_ptr[m[K<Directives> m_pDirectives;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:9[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:42[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/emitter.h:105:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  105 |   std::[01;35m[Kauto_ptr[m[K <EmitterState> m_pState;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:14[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:42[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/iterator.h:20:17:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   20 |   Iterator(std::[01;35m[Kauto_ptr[m[K<IterPriv> pData);
+      |                 [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:14[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:42[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/iterator.h:36:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   36 |   std::[01;35m[Kauto_ptr[m[K<IterPriv> m_pData;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:42[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:43:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   43 |   std::[01;35m[Kauto_ptr[m[K<Node> Clone() const;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/yaml.h:13[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:42[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/contrib/yaml-cpp-pm/include/yaml-cpp-pm/node.h:117:8:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<class> class std::auto_ptr[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  117 |   std::[01;35m[Kauto_ptr[m[K<NodeOwnership> m_pOwnership;
+      |        [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/9/memory:80[m[K,
+                 from [01m[K/usr/include/boost/system/detail/std_interoperability.hpp:12[m[K,
+                 from [01m[K/usr/include/boost/system/error_code.hpp:959[m[K,
+                 from [01m[K/usr/include/boost/system/system_error.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/thread/exceptions.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/thread/pthread/mutex.hpp:14[m[K,
+                 from [01m[K/usr/include/boost/thread/mutex.hpp:16[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcher.h:52[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:36[m[K:
+[01m[K/usr/include/c++/9/bits/unique_ptr.h:53:28:[m[K [01;36m[Knote: [m[Kdeclared here
+   53 |   template<typename> class [01;36m[Kauto_ptr[m[K;
+      |                            [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:[m[K In member function ‘[01m[Kvoid PointMatcher<T>::DataPointsFilters::apply(PointMatcher<T>::DataPoints&)[m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:126:138:[m[K [01;35m[Kwarning: [m[Kunknown escape sequence: '\%'
+  126 |   LOG_INFO_STREAM("* " << (*it)->className << " - " << nbPointsOut << " points out (-" << (100 - double(nbPointsOut*100.)/nbPointsIn) << [01;35m[K"\%)"[m[K);
+      |                                                                                                                                          [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:62:52:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KLOG_INFO_STREAM[m[K’
+   62 |    (*PointMatcherSupport::logger->infoStream()) << [01;36m[Kargs[m[K; \
+      |                                                    [01;36m[K^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilter.cpp:130:176:[m[K [01;35m[Kwarning: [m[Kunknown escape sequence: '\%'
+  130 |  LOG_INFO_STREAM("Applied " << this->size() << " filters - " << nbPointsAfterFilters << " points out (-" << (100 - double(nbPointsAfterFilters*100.)/nbPointsBeforeFilters) << [01;35m[K"\%)"[m[K);
+      |                                                                                                                                                                                [01;35m[K^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:62:52:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KLOG_INFO_STREAM[m[K’
+   62 |    (*PointMatcherSupport::logger->infoStream()) << [01;36m[Kargs[m[K; \
+      |                                                    [01;36m[K^~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Matcher.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFilter.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp: In instantiation of ‘[01m[KT PointMatcher<T>::ErrorMinimizer::getResidualError(const PointMatcher<T>::DataPoints&, const PointMatcher<T>::DataPoints&, const OutlierWeights&, const PointMatcher<T>::Matches&) const [with T = float; PointMatcher<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:320:38:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:274:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  274 | T PointMatcher<T>::ErrorMinimizer::getResidualError([01;35m[Kconst DataPoints& filteredReading[m[K, const DataPoints& filteredReference, const OutlierWeights& outlierWeights, const Matches& matches) const
+      |                                                     [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:274:106:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  274 | T PointMatcher<T>::ErrorMinimizer::getResidualError(const DataPoints& filteredReading, [01;35m[Kconst DataPoints& filteredReference[m[K, const OutlierWeights& outlierWeights, const Matches& matches) const
+      |                                                                                        [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:274:147:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KoutlierWeights[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  274 | T PointMatcher<T>::ErrorMinimizer::getResidualError(const DataPoints& filteredReading, const DataPoints& filteredReference, [01;35m[Kconst OutlierWeights& outlierWeights[m[K, const Matches& matches) const
+      |                                                                                                                             [01;35m[K~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:274:178:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmatches[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  274 | T PointMatcher<T>::ErrorMinimizer::getResidualError(const DataPoints& filteredReading, const DataPoints& filteredReference, const OutlierWeights& outlierWeights, [01;35m[Kconst Matches& matches[m[K) const
+      |                                                                                                                                                                   [01;35m[K~~~~~~~~~~~~~~~^~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp: In instantiation of ‘[01m[KT PointMatcher<T>::ErrorMinimizer::getResidualError(const PointMatcher<T>::DataPoints&, const PointMatcher<T>::DataPoints&, const OutlierWeights&, const PointMatcher<T>::Matches&) const [with T = double; PointMatcher<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:321:39:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:274:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  274 | T PointMatcher<T>::ErrorMinimizer::getResidualError([01;35m[Kconst DataPoints& filteredReading[m[K, const DataPoints& filteredReference, const OutlierWeights& outlierWeights, const Matches& matches) const
+      |                                                     [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:274:106:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  274 | T PointMatcher<T>::ErrorMinimizer::getResidualError(const DataPoints& filteredReading, [01;35m[Kconst DataPoints& filteredReference[m[K, const OutlierWeights& outlierWeights, const Matches& matches) const
+      |                                                                                        [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:274:147:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KoutlierWeights[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  274 | T PointMatcher<T>::ErrorMinimizer::getResidualError(const DataPoints& filteredReading, const DataPoints& filteredReference, [01;35m[Kconst OutlierWeights& outlierWeights[m[K, const Matches& matches) const
+      |                                                                                                                             [01;35m[K~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizer.cpp:274:178:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmatches[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  274 | T PointMatcher<T>::ErrorMinimizer::getResidualError(const DataPoints& filteredReading, const DataPoints& filteredReference, const OutlierWeights& outlierWeights, [01;35m[Kconst Matches& matches[m[K) const
+      |                                                                                                                                                                   [01;35m[K~~~~~~~~~~~~~~~^~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Transformation.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationChecker.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::addStat(const string&, double) [with T = float; std::string = std::__cxx11::basic_string<char>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:89:38:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:64:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kname[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   64 | void PointMatcher<T>::Inspector::addStat([01;35m[Kconst std::string& name[m[K, double data)
+      |                                          [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:64:74:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kdata[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   64 | void PointMatcher<T>::Inspector::addStat(const std::string& name, [01;35m[Kdouble data[m[K)
+      |                                                                   [01;35m[K~~~~~~~^~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::dumpStats(std::ostream&) [with T = float; std::ostream = std::basic_ostream<char>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:89:38:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:69:58:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstream[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   69 | void PointMatcher<T>::Inspector::dumpStats([01;35m[Kstd::ostream& stream[m[K)
+      |                                            [01;35m[K~~~~~~~~~~~~~~^~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::dumpStatsHeader(std::ostream&) [with T = float; std::ostream = std::basic_ostream<char>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:89:38:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:74:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstream[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   74 | void PointMatcher<T>::Inspector::dumpStatsHeader([01;35m[Kstd::ostream& stream[m[K)
+      |                                                  [01;35m[K~~~~~~~~~~~~~~^~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::dumpIteration(size_t, const TransformationParameters&, const PointMatcher<T>::DataPoints&, const PointMatcher<T>::DataPoints&, const PointMatcher<T>::Matches&, const OutlierWeights&, const PointMatcher<T>::TransformationCheckers&) [with T = float; size_t = long unsigned int; PointMatcher<T>::TransformationParameters = Eigen::Matrix<float, -1, -1>; PointMatcher<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:89:38:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KiterationNumber[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration([01;35m[Kconst size_t iterationNumber[m[K, const TransformationParameters& parameters, const DataPoints& filteredReference, const DataPoints& reading, const Matches& matches, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:110:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, [01;35m[Kconst TransformationParameters& parameters[m[K, const DataPoints& filteredReference, const DataPoints& reading, const Matches& matches, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:140:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, [01;35m[Kconst DataPoints& filteredReference[m[K, const DataPoints& reading, const Matches& matches, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                                                                                          [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:177:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kreading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, const DataPoints& filteredReference, [01;35m[Kconst DataPoints& reading[m[K, const Matches& matches, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                                                                                                                               [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:201:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmatches[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, const DataPoints& filteredReference, const DataPoints& reading, [01;35m[Kconst Matches& matches[m[K, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                                                                                                                                                          [01;35m[K~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:232:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KoutlierWeights[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, const DataPoints& filteredReference, const DataPoints& reading, const Matches& matches, [01;35m[Kconst OutlierWeights& outlierWeights[m[K, const TransformationCheckers& transformationCheckers)
+      |                                                                                                                                                                                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:278:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KtransformationCheckers[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, const DataPoints& filteredReference, const DataPoints& reading, const Matches& matches, const OutlierWeights& outlierWeights, [01;35m[Kconst TransformationCheckers& transformationCheckers[m[K)
+      |                                                                                                                                                                                                                                                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::finish(size_t) [with T = float; size_t = long unsigned int][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:89:38:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:86:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KiterationCount[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   86 | void PointMatcher<T>::Inspector::finish([01;35m[Kconst size_t iterationCount[m[K)
+      |                                         [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::addStat(const string&, double) [with T = double; std::string = std::__cxx11::basic_string<char>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:90:39:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:64:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kname[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   64 | void PointMatcher<T>::Inspector::addStat([01;35m[Kconst std::string& name[m[K, double data)
+      |                                          [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:64:74:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kdata[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   64 | void PointMatcher<T>::Inspector::addStat(const std::string& name, [01;35m[Kdouble data[m[K)
+      |                                                                   [01;35m[K~~~~~~~^~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::dumpStats(std::ostream&) [with T = double; std::ostream = std::basic_ostream<char>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:90:39:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:69:58:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstream[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   69 | void PointMatcher<T>::Inspector::dumpStats([01;35m[Kstd::ostream& stream[m[K)
+      |                                            [01;35m[K~~~~~~~~~~~~~~^~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::dumpStatsHeader(std::ostream&) [with T = double; std::ostream = std::basic_ostream<char>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:90:39:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:74:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstream[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   74 | void PointMatcher<T>::Inspector::dumpStatsHeader([01;35m[Kstd::ostream& stream[m[K)
+      |                                                  [01;35m[K~~~~~~~~~~~~~~^~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::dumpIteration(size_t, const TransformationParameters&, const PointMatcher<T>::DataPoints&, const PointMatcher<T>::DataPoints&, const PointMatcher<T>::Matches&, const OutlierWeights&, const PointMatcher<T>::TransformationCheckers&) [with T = double; size_t = long unsigned int; PointMatcher<T>::TransformationParameters = Eigen::Matrix<double, -1, -1>; PointMatcher<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:90:39:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KiterationNumber[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration([01;35m[Kconst size_t iterationNumber[m[K, const TransformationParameters& parameters, const DataPoints& filteredReference, const DataPoints& reading, const Matches& matches, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:110:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, [01;35m[Kconst TransformationParameters& parameters[m[K, const DataPoints& filteredReference, const DataPoints& reading, const Matches& matches, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:140:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, [01;35m[Kconst DataPoints& filteredReference[m[K, const DataPoints& reading, const Matches& matches, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                                                                                          [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:177:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kreading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, const DataPoints& filteredReference, [01;35m[Kconst DataPoints& reading[m[K, const Matches& matches, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                                                                                                                               [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:201:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmatches[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, const DataPoints& filteredReference, const DataPoints& reading, [01;35m[Kconst Matches& matches[m[K, const OutlierWeights& outlierWeights, const TransformationCheckers& transformationCheckers)
+      |                                                                                                                                                                                          [01;35m[K~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:232:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KoutlierWeights[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, const DataPoints& filteredReference, const DataPoints& reading, const Matches& matches, [01;35m[Kconst OutlierWeights& outlierWeights[m[K, const TransformationCheckers& transformationCheckers)
+      |                                                                                                                                                                                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:81:278:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KtransformationCheckers[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   81 | void PointMatcher<T>::Inspector::dumpIteration(const size_t iterationNumber, const TransformationParameters& parameters, const DataPoints& filteredReference, const DataPoints& reading, const Matches& matches, const OutlierWeights& outlierWeights, [01;35m[Kconst TransformationCheckers& transformationCheckers[m[K)
+      |                                                                                                                                                                                                                                                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp: In instantiation of ‘[01m[Kvoid PointMatcher<T>::Inspector::finish(size_t) [with T = double; size_t = long unsigned int][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:90:39:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Inspector.cpp:86:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KiterationCount[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   86 | void PointMatcher<T>::Inspector::finish([01;35m[Kconst size_t iterationCount[m[K)
+      |                                         [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:41[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Bibliography.cpp:36[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Bibliography.h:73:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   73 | }[01;35m[K;[m[K // PointMatcherSupport
+      |  [01;35m[K^[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/Bibliography.cpp:389:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+  389 | }[01;35m[K;[m[K // PointMatcherSupport
+      |  [01;35m[K^[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:[m[K In static member function ‘[01m[Kstatic PointMatcherIO<T>::DataPoints PointMatcherIO<T>::loadPLY(std::istream&) [with T = float][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:1535:7:[m[K [01;35m[Kwarning: [m[Kthis statement may fall through [[01;35m[K-Wimplicit-fallthrough=[m[K]
+ 1535 |       [01;35m[KrowIdTime[m[K++;
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:1536:6:[m[K [01;36m[Knote: [m[Khere
+ 1536 |      [01;36m[Kdefault[m[K:
+      |      [01;36m[K^~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:[m[K In static member function ‘[01m[Kstatic PointMatcherIO<T>::DataPoints PointMatcherIO<T>::loadPLY(std::istream&) [with T = double][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:1535:7:[m[K [01;35m[Kwarning: [m[Kthis statement may fall through [[01;35m[K-Wimplicit-fallthrough=[m[K]
+ 1535 |       [01;35m[KrowIdTime[m[K++;
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:1536:6:[m[K [01;36m[Knote: [m[Khere
+ 1536 |      [01;36m[Kdefault[m[K:
+      |      [01;36m[K^~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:[m[K In static member function ‘[01m[Kstatic PointMatcherIO<T>::DataPoints PointMatcherIO<T>::loadPCD(std::istream&) [with T = float][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:2124:7:[m[K [01;35m[Kwarning: [m[Kthis statement may fall through [[01;35m[K-Wimplicit-fallthrough=[m[K]
+ 2124 |       [01;35m[KrowIdTime[m[K += prop.count;
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:2125:6:[m[K [01;36m[Knote: [m[Khere
+ 2125 |      [01;36m[Kdefault[m[K:
+      |      [01;36m[K^~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:[m[K In static member function ‘[01m[Kstatic PointMatcherIO<T>::DataPoints PointMatcherIO<T>::loadPCD(std::istream&) [with T = double][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:2124:7:[m[K [01;35m[Kwarning: [m[Kthis statement may fall through [[01;35m[K-Wimplicit-fallthrough=[m[K]
+ 2124 |       [01;35m[KrowIdTime[m[K += prop.count;
+      |       [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/IO.cpp:2125:6:[m[K [01;36m[Knote: [m[Khere
+ 2125 |      [01;36m[Kdefault[m[K:
+      |      [01;36m[K^~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/LoggerImpl.cpp:85:3:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   85 |  }[01;35m[K;[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/LoggerImpl.cpp:[m[K In member function ‘[01m[Kvirtual void PointMatcherSupport::FileLogger::beginInfoEntry(const char*, unsigned int, const char*)[m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/LoggerImpl.cpp:87:46:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfile[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   87 |  void FileLogger::beginInfoEntry([01;35m[Kconst char *file[m[K, unsigned line, const char *func)
+      |                                  [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/LoggerImpl.cpp:87:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kline[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   87 |  void FileLogger::beginInfoEntry(const char *file, [01;35m[Kunsigned line[m[K, const char *func)
+      |                                                    [01;35m[K~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/LoggerImpl.cpp:87:79:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfunc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   87 |  void FileLogger::beginInfoEntry(const char *file, unsigned line, [01;35m[Kconst char *func[m[K)
+      |                                                                   [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/LoggerImpl.cpp:[m[K In member function ‘[01m[Kvirtual void PointMatcherSupport::FileLogger::beginWarningEntry(const char*, unsigned int, const char*)[m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/LoggerImpl.cpp:109:49:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfile[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  109 |  void FileLogger::beginWarningEntry([01;35m[Kconst char *file[m[K, unsigned line, const char *func)
+      |                                     [01;35m[K~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/LoggerImpl.cpp:109:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kline[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  109 |  void FileLogger::beginWarningEntry(const char *file, [01;35m[Kunsigned line[m[K, const char *func)
+      |                                                       [01;35m[K~~~~~~~~~^~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/LoggerImpl.cpp:109:82:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfunc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  109 |  void FileLogger::beginWarningEntry(const char *file, unsigned line, [01;35m[Kconst char *func[m[K)
+      |                                                                      [01;35m[K~~~~~~~~~~~~^~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp: In instantiation of ‘[01m[Kvoid MatchersImpl<T>::NullMatcher::init(const DataPoints&) [with T = float; MatchersImpl<T>::DataPoints = PointMatcher<float>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp:54:38:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp:42:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   42 |  [01;35m[Kconst DataPoints& filteredReference[m[K)
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::Matches MatchersImpl<T>::NullMatcher::findClosests(const DataPoints&) [with T = float; typename PointMatcher<T>::Matches = PointMatcher<float>::Matches; MatchersImpl<T>::DataPoints = PointMatcher<float>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp:54:38:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp:49:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   49 |  [01;35m[Kconst DataPoints& filteredReading[m[K)
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp: In instantiation of ‘[01m[Kvoid MatchersImpl<T>::NullMatcher::init(const DataPoints&) [with T = double; MatchersImpl<T>::DataPoints = PointMatcher<double>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp:55:39:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp:42:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   42 |  [01;35m[Kconst DataPoints& filteredReference[m[K)
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::Matches MatchersImpl<T>::NullMatcher::findClosests(const DataPoints&) [with T = double; typename PointMatcher<T>::Matches = PointMatcher<double>::Matches; MatchersImpl<T>::DataPoints = PointMatcher<double>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp:55:39:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/MatchersImpl.cpp:49:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   49 |  [01;35m[Kconst DataPoints& filteredReading[m[K)
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::NullOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = float; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<float>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<float>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:61:44:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:54:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   54 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:55:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   55 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::NullOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = double; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<double>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<double>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:62:45:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:54:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   54 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:55:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   55 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::MaxDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = float; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<float>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<float>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:83:44:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:76:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   76 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:77:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   77 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::MaxDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = double; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<double>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<double>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:84:45:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:76:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   76 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:77:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   77 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::MinDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = float; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<float>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<float>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:103:44:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:96:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   96 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:97:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   97 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::MinDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = double; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<double>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<double>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:104:45:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:96:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   96 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:97:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   97 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::MedianDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = float; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<float>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<float>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:127:44:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:118:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  118 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:119:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  119 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::MedianDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = double; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<double>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<double>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:128:45:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:118:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  118 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:119:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  119 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::TrimmedDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = float; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<float>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<float>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:149:44:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:141:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  141 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:142:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  142 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::TrimmedDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = double; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<double>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<double>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:150:45:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:141:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  141 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:142:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  142 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::VarTrimmedDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = float; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<float>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<float>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:222:44:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:168:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  168 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:169:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  169 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::VarTrimmedDistOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = double; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<double>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<double>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:223:45:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:168:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  168 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:169:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReference[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  169 |  [01;35m[Kconst DataPoints& filteredReference[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::GenericDescriptorOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = float; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<float>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<float>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:376:44:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:309:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  309 |  [01;35m[Kconst DataPoints& filteredReading[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::OutlierWeights OutlierFiltersImpl<T>::GenericDescriptorOutlierFilter::compute(const DataPoints&, const DataPoints&, const Matches&) [with T = double; typename PointMatcher<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>; OutlierFiltersImpl<T>::DataPoints = PointMatcher<double>::DataPoints; OutlierFiltersImpl<T>::Matches = PointMatcher<double>::Matches][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:377:45:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/OutlierFiltersImpl.cpp:309:20:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KfilteredReading[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationsImpl.cpp: In instantiation of ‘[01m[Kbool TransformationsImpl<T>::SimilarityTransformation::checkParameters(const TransformationParameters&) const [with T = float; TransformationsImpl<T>::TransformationParameters = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationsImpl.cpp:230:45:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationsImpl.cpp:217:104:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  217 | bool TransformationsImpl<T>::SimilarityTransformation::checkParameters([01;35m[Kconst TransformationParameters& parameters[m[K) const
+      |                                                                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationsImpl.cpp: In instantiation of ‘[01m[Kbool TransformationsImpl<T>::SimilarityTransformation::checkParameters(const TransformationParameters&) const [with T = double; TransformationsImpl<T>::TransformationParameters = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationsImpl.cpp:231:46:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationsImpl.cpp:217:104:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::CounterTransformationChecker::init(const TransformationParameters&, bool&) [with T = float; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:78:52:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:58:104:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   58 | void TransformationCheckersImpl<T>::CounterTransformationChecker::init([01;35m[Kconst TransformationParameters& parameters[m[K, bool& iterate)
+      |                                                                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:58:122:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kiterate[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   58 | void TransformationCheckersImpl<T>::CounterTransformationChecker::init(const TransformationParameters& parameters, [01;35m[Kbool& iterate[m[K)
+      |                                                                                                                    [01;35m[K~~~~~~^~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::CounterTransformationChecker::check(const TransformationParameters&, bool&) [with T = float; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:78:52:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:64:105:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   64 | void TransformationCheckersImpl<T>::CounterTransformationChecker::check([01;35m[Kconst TransformationParameters& parameters[m[K, bool& iterate)
+      |                                                                         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::CounterTransformationChecker::init(const TransformationParameters&, bool&) [with T = double; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:79:53:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:58:104:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   58 | void TransformationCheckersImpl<T>::CounterTransformationChecker::init([01;35m[Kconst TransformationParameters& parameters[m[K, bool& iterate)
+      |                                                                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:58:122:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kiterate[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   58 | void TransformationCheckersImpl<T>::CounterTransformationChecker::init(const TransformationParameters& parameters, [01;35m[Kbool& iterate[m[K)
+      |                                                                                                                    [01;35m[K~~~~~~^~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::CounterTransformationChecker::check(const TransformationParameters&, bool&) [with T = double; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:79:53:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:64:105:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   64 | void TransformationCheckersImpl<T>::CounterTransformationChecker::check([01;35m[Kconst TransformationParameters& parameters[m[K, bool& iterate)
+      |                                                                         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::DifferentialTransformationChecker::init(const TransformationParameters&, bool&) [with T = float; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:160:52:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:103:127:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kiterate[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  103 | void TransformationCheckersImpl<T>::DifferentialTransformationChecker::init(const TransformationParameters& parameters, [01;35m[Kbool& iterate[m[K)
+      |                                                                                                                         [01;35m[K~~~~~~^~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::DifferentialTransformationChecker::init(const TransformationParameters&, bool&) [with T = double; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:161:53:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:103:127:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kiterate[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::BoundTransformationChecker::init(const TransformationParameters&, bool&) [with T = float; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:227:52:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:183:120:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kiterate[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  183 | void TransformationCheckersImpl<T>::BoundTransformationChecker::init(const TransformationParameters& parameters, [01;35m[Kbool& iterate[m[K)
+      |                                                                                                                  [01;35m[K~~~~~~^~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::BoundTransformationChecker::check(const TransformationParameters&, bool&) [with T = float; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:227:52:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:198:121:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kiterate[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  198 | void TransformationCheckersImpl<T>::BoundTransformationChecker::check(const TransformationParameters& parameters, [01;35m[Kbool& iterate[m[K)
+      |                                                                                                                   [01;35m[K~~~~~~^~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::BoundTransformationChecker::init(const TransformationParameters&, bool&) [with T = double; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:228:53:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:183:120:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kiterate[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  183 | void TransformationCheckersImpl<T>::BoundTransformationChecker::init(const TransformationParameters& parameters, [01;35m[Kbool& iterate[m[K)
+      |                                                                                                                  [01;35m[K~~~~~~^~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp: In instantiation of ‘[01m[Kvoid TransformationCheckersImpl<T>::BoundTransformationChecker::check(const TransformationParameters&, bool&) [with T = double; TransformationCheckersImpl<T>::TransformationParameters = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:228:53:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/TransformationCheckersImpl.cpp:198:121:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kiterate[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  198 | void TransformationCheckersImpl<T>::BoundTransformationChecker::check(const TransformationParameters& parameters, [01;35m[Kbool& iterate[m[K)
+      |                                                                                                                   [01;35m[K~~~~~~^~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:38[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp: In instantiation of ‘[01m[Kvoid InspectorsImpl<T>::VTKFileInspector::finish(size_t) [with T = float; size_t = long unsigned int][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:789:40:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:743:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KiterationCount[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  743 | void InspectorsImpl<T>::VTKFileInspector::finish([01;35m[Kconst size_t iterationCount[m[K)
+      |                                                  [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp: In instantiation of ‘[01m[Kvoid InspectorsImpl<T>::VTKFileInspector::finish(size_t) [with T = double; size_t = long unsigned int][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:790:41:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:743:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KiterationCount[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp: In instantiation of ‘[01m[Kvoid InspectorsImpl<T>::AbstractVTKInspector::dumpIteration(size_t, const TransformationParameters&, const DataPoints&, const DataPoints&, const Matches&, const OutlierWeights&, const TransformationCheckers&) [with T = double; size_t = long unsigned int; InspectorsImpl<T>::TransformationParameters = Eigen::Matrix<double, -1, -1>; InspectorsImpl<T>::DataPoints = PointMatcher<double>::DataPoints; InspectorsImpl<T>::Matches = PointMatcher<double>::Matches; InspectorsImpl<T>::OutlierWeights = Eigen::Matrix<double, -1, -1>; InspectorsImpl<T>::TransformationCheckers = PointMatcher<double>::TransformationCheckers][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:385:6:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:387:34:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  387 |  [01;35m[Kconst TransformationParameters& parameters[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp: In instantiation of ‘[01m[Kvoid InspectorsImpl<T>::AbstractVTKInspector::finish(size_t) [with T = double; size_t = long unsigned int][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:706:6:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:706:67:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KiterationCount[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  706 | void InspectorsImpl<T>::AbstractVTKInspector::finish([01;35m[Kconst size_t iterationCount[m[K)
+      |                                                      [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp: In instantiation of ‘[01m[Kvoid InspectorsImpl<T>::AbstractVTKInspector::dumpIteration(size_t, const TransformationParameters&, const DataPoints&, const DataPoints&, const Matches&, const OutlierWeights&, const TransformationCheckers&) [with T = float; size_t = long unsigned int; InspectorsImpl<T>::TransformationParameters = Eigen::Matrix<float, -1, -1>; InspectorsImpl<T>::DataPoints = PointMatcher<float>::DataPoints; InspectorsImpl<T>::Matches = PointMatcher<float>::Matches; InspectorsImpl<T>::OutlierWeights = Eigen::Matrix<float, -1, -1>; InspectorsImpl<T>::TransformationCheckers = PointMatcher<float>::TransformationCheckers][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:385:6:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:387:34:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparameters[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  387 |  [01;35m[Kconst TransformationParameters& parameters[m[K,
+      |  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp: In instantiation of ‘[01m[Kvoid InspectorsImpl<T>::AbstractVTKInspector::finish(size_t) [with T = float; size_t = long unsigned int][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:706:6:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/InspectorsImpl.cpp:706:67:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KiterationCount[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  706 | void InspectorsImpl<T>::AbstractVTKInspector::finish([01;35m[Kconst size_t iterationCount[m[K)
+      |                                                      [01;35m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizers/PointToPlane.cpp:41[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizers/PointToPlaneWithCov.cpp:41[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizers/PointToPoint.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizers/PointToPointWithCov.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/ErrorMinimizers/PointToPointSimilarity.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Identity.cpp: In instantiation of ‘[01m[Kvoid IdentityDataPointsFilter<T>::inPlaceFilter(IdentityDataPointsFilter<T>::DataPoints&) [with T = float; IdentityDataPointsFilter<T>::DataPoints = PointMatcher<float>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Identity.cpp:54:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Identity.cpp:50:14:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcloud[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   50 |  [01;35m[KDataPoints& cloud[m[K)
+      |  [01;35m[K~~~~~~~~~~~~^~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Identity.cpp: In instantiation of ‘[01m[Kvoid IdentityDataPointsFilter<T>::inPlaceFilter(IdentityDataPointsFilter<T>::DataPoints&) [with T = double; IdentityDataPointsFilter<T>::DataPoints = PointMatcher<double>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Identity.cpp:55:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Identity.cpp:50:14:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcloud[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/SurfaceNormal.cpp:41[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/SurfaceNormal.cpp:47[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/utils.h:159:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+  159 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/SamplingSurfaceNormal.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/utils.h:159:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+  159 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/SamplingSurfaceNormal.cpp:43[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/FixStepSampling.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/SimpleSensorNoise.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Elipsoids.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/utils.h:159:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+  159 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Elipsoids.cpp:42[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/utils.h:159:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+  159 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:45[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::Vector GestaltDataPointsFilter<T>::calculateAngles(const Matrix&, const Eigen::Matrix<_Scalar, 3, 1>&) const [with T = float; typename PointMatcher<T>::Vector = Eigen::Matrix<float, -1, 1>; GestaltDataPointsFilter<T>::Matrix = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:629:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:599:52:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KkeyPoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  599 |  const Matrix& points, [01;35m[Kconst Eigen::Matrix<T,3,1>& keyPoint[m[K) const
+      |                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::Vector GestaltDataPointsFilter<T>::calculateRadii(const Matrix&, const Eigen::Matrix<_Scalar, 3, 1>&) const [with T = float; typename PointMatcher<T>::Vector = Eigen::Matrix<float, -1, 1>; GestaltDataPointsFilter<T>::Matrix = Eigen::Matrix<float, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:629:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:617:52:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KkeyPoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  617 |  const Matrix& points, [01;35m[Kconst Eigen::Matrix<T,3,1>& keyPoint[m[K) const
+      |                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp: In instantiation of ‘[01m[Kvoid GestaltDataPointsFilter<T>::fuseRange(GestaltDataPointsFilter<T>::BuildData&, GestaltDataPointsFilter<T>::DataPoints&, int, int) const [with T = float; GestaltDataPointsFilter<T>::DataPoints = PointMatcher<float>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:629:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:344:48:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfirst[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  344 |  BuildData& data, DataPoints& input, [01;35m[Kconst int first[m[K, const int last) const
+      |                                      [01;35m[K~~~~~~~~~~^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:344:65:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klast[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  344 |  BuildData& data, DataPoints& input, const int first, [01;35m[Kconst int last[m[K) const
+      |                                                       [01;35m[K~~~~~~~~~~^~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::Vector GestaltDataPointsFilter<T>::calculateAngles(const Matrix&, const Eigen::Matrix<_Scalar, 3, 1>&) const [with T = double; typename PointMatcher<T>::Vector = Eigen::Matrix<double, -1, 1>; GestaltDataPointsFilter<T>::Matrix = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:630:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:599:52:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KkeyPoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  599 |  const Matrix& points, [01;35m[Kconst Eigen::Matrix<T,3,1>& keyPoint[m[K) const
+      |                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp: In instantiation of ‘[01m[Ktypename PointMatcher<T>::Vector GestaltDataPointsFilter<T>::calculateRadii(const Matrix&, const Eigen::Matrix<_Scalar, 3, 1>&) const [with T = double; typename PointMatcher<T>::Vector = Eigen::Matrix<double, -1, 1>; GestaltDataPointsFilter<T>::Matrix = Eigen::Matrix<double, -1, -1>][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:630:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:617:52:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KkeyPoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  617 |  const Matrix& points, [01;35m[Kconst Eigen::Matrix<T,3,1>& keyPoint[m[K) const
+      |                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.h:41[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.h:38[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:35[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/utils.h:159:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+  159 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp: In instantiation of ‘[01m[Kvoid GestaltDataPointsFilter<T>::fuseRange(GestaltDataPointsFilter<T>::BuildData&, GestaltDataPointsFilter<T>::DataPoints&, int, int) const [with T = double; GestaltDataPointsFilter<T>::DataPoints = PointMatcher<double>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:630:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:344:48:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kfirst[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  344 |  BuildData& data, DataPoints& input, [01;35m[Kconst int first[m[K, const int last) const
+      |                                      [01;35m[K~~~~~~~~~~^~~~~[m[K
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/Gestalt.cpp:344:65:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klast[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  344 |  BuildData& data, DataPoints& input, const int first, [01;35m[Kconst int last[m[K) const
+      |                                                       [01;35m[K~~~~~~~~~~^~~~[m[K
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.h:161[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.h:38[m[K,
+                 from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:35[m[K:
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp: In instantiation of ‘[01m[KOctree_<T, dim>::DataContainer Octree_<T, dim>::toData(const DP&, const std::vector<typename PointMatcher<T>::DataPoints::Index>&) [with T = float; long unsigned int dim = 2; Octree_<T, dim>::DataContainer = std::vector<long int, std::allocator<long int> >; typename PointMatcher<T>::DataPoints::Index = long int; Octree_<T, dim>::DP = PointMatcher<float>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp:261:24:[m[K   required from ‘[01m[Kbool Octree_<T, dim>::build(const DP&, size_t, T, bool) [with T = float; long unsigned int dim = 2; Octree_<T, dim>::DP = PointMatcher<float>::DataPoints; size_t = long unsigned int][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:333:2:[m[K   required from ‘[01m[Kvoid OctreeGridDataPointsFilter<T>::sample(OctreeGridDataPointsFilter<T>::DataPoints&) [with long unsigned int dim = 2; T = float; OctreeGridDataPointsFilter<T>::DataPoints = PointMatcher<float>::DataPoints][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:321:3:[m[K   required from ‘[01m[Kvoid OctreeGridDataPointsFilter<T>::inPlaceFilter(OctreeGridDataPointsFilter<T>::DataPoints&) [with T = float; OctreeGridDataPointsFilter<T>::DataPoints = PointMatcher<float>::DataPoints][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:369:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp:224:73:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kpts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  224 | typename Octree_<T,dim>::DataContainer Octree_<T,dim>::toData([01;35m[Kconst DP& pts[m[K, const std::vector<Id>& ids)
+      |                                                               [01;35m[K~~~~~~~~~~^~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp: In instantiation of ‘[01m[KOctree_<T, dim>::DataContainer Octree_<T, dim>::toData(const DP&, const std::vector<typename PointMatcher<T>::DataPoints::Index>&) [with T = float; long unsigned int dim = 3; Octree_<T, dim>::DataContainer = std::vector<long int, std::allocator<long int> >; typename PointMatcher<T>::DataPoints::Index = long int; Octree_<T, dim>::DP = PointMatcher<float>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp:261:24:[m[K   required from ‘[01m[Kbool Octree_<T, dim>::build(const DP&, size_t, T, bool) [with T = float; long unsigned int dim = 3; Octree_<T, dim>::DP = PointMatcher<float>::DataPoints; size_t = long unsigned int][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:333:2:[m[K   required from ‘[01m[Kvoid OctreeGridDataPointsFilter<T>::sample(OctreeGridDataPointsFilter<T>::DataPoints&) [with long unsigned int dim = 3; T = float; OctreeGridDataPointsFilter<T>::DataPoints = PointMatcher<float>::DataPoints][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:324:3:[m[K   required from ‘[01m[Kvoid OctreeGridDataPointsFilter<T>::inPlaceFilter(OctreeGridDataPointsFilter<T>::DataPoints&) [with T = float; OctreeGridDataPointsFilter<T>::DataPoints = PointMatcher<float>::DataPoints][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:369:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp:224:73:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kpts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp: In instantiation of ‘[01m[KOctree_<T, dim>::DataContainer Octree_<T, dim>::toData(const DP&, const std::vector<typename PointMatcher<T>::DataPoints::Index>&) [with T = double; long unsigned int dim = 2; Octree_<T, dim>::DataContainer = std::vector<long int, std::allocator<long int> >; typename PointMatcher<T>::DataPoints::Index = long int; Octree_<T, dim>::DP = PointMatcher<double>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp:261:24:[m[K   required from ‘[01m[Kbool Octree_<T, dim>::build(const DP&, size_t, T, bool) [with T = double; long unsigned int dim = 2; Octree_<T, dim>::DP = PointMatcher<double>::DataPoints; size_t = long unsigned int][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:333:2:[m[K   required from ‘[01m[Kvoid OctreeGridDataPointsFilter<T>::sample(OctreeGridDataPointsFilter<T>::DataPoints&) [with long unsigned int dim = 2; T = double; OctreeGridDataPointsFilter<T>::DataPoints = PointMatcher<double>::DataPoints][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:321:3:[m[K   required from ‘[01m[Kvoid OctreeGridDataPointsFilter<T>::inPlaceFilter(OctreeGridDataPointsFilter<T>::DataPoints&) [with T = double; OctreeGridDataPointsFilter<T>::DataPoints = PointMatcher<double>::DataPoints][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:370:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp:224:73:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kpts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp: In instantiation of ‘[01m[KOctree_<T, dim>::DataContainer Octree_<T, dim>::toData(const DP&, const std::vector<typename PointMatcher<T>::DataPoints::Index>&) [with T = double; long unsigned int dim = 3; Octree_<T, dim>::DataContainer = std::vector<long int, std::allocator<long int> >; typename PointMatcher<T>::DataPoints::Index = long int; Octree_<T, dim>::DP = PointMatcher<double>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp:261:24:[m[K   required from ‘[01m[Kbool Octree_<T, dim>::build(const DP&, size_t, T, bool) [with T = double; long unsigned int dim = 3; Octree_<T, dim>::DP = PointMatcher<double>::DataPoints; size_t = long unsigned int][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:333:2:[m[K   required from ‘[01m[Kvoid OctreeGridDataPointsFilter<T>::sample(OctreeGridDataPointsFilter<T>::DataPoints&) [with long unsigned int dim = 3; T = double; OctreeGridDataPointsFilter<T>::DataPoints = PointMatcher<double>::DataPoints][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:324:3:[m[K   required from ‘[01m[Kvoid OctreeGridDataPointsFilter<T>::inPlaceFilter(OctreeGridDataPointsFilter<T>::DataPoints&) [with T = double; OctreeGridDataPointsFilter<T>::DataPoints = PointMatcher<double>::DataPoints][m[K’
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/OctreeGrid.cpp:370:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/utils/octree.hpp:224:73:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kpts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/CovarianceSampling.cpp: In instantiation of ‘[01m[Kvoid CovarianceSamplingDataPointsFilter<T>::inPlaceFilter(CovarianceSamplingDataPointsFilter<T>::DataPoints&) [with T = float; CovarianceSamplingDataPointsFilter<T>::DataPoints = PointMatcher<float>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/CovarianceSampling.cpp:265:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/CovarianceSampling.cpp:160:18:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[KeigenVa[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  160 |  const Vector6   [01;35m[KeigenVa[m[K = solver.eigenvalues().real();
+      |                  [01;35m[K^~~~~~~[m[K
+/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/CovarianceSampling.cpp: In instantiation of ‘[01m[Kvoid CovarianceSamplingDataPointsFilter<T>::inPlaceFilter(CovarianceSamplingDataPointsFilter<T>::DataPoints&) [with T = double; CovarianceSamplingDataPointsFilter<T>::DataPoints = PointMatcher<double>::DataPoints][m[K’:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/CovarianceSampling.cpp:266:17:[m[K   required from here
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/CovarianceSampling.cpp:160:18:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[KeigenVa[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+In file included from [01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/DataPointsFilters/RemoveSensorBias.cpp:37[m[K:
+[01m[K/home/seif/catkin_ws/src/libpointmatcher/pointmatcher/PointMatcherPrivate.h:77:2:[m[K [01;35m[Kwarning: [m[Kextra ‘[01m[K;[m[K’ [[01;35m[K-Wpedantic[m[K]
+   77 | }[01;35m[K;[m[K
+      |  [01;35m[K^[m[K
